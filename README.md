@@ -209,6 +209,8 @@ influence the ROI.
 This could possibly influence the decision on the type of films to be
 created based on the target audience.
 
+The link to the jupyter notebook is [student.notebook](student.ipynb)
+
 +-----------------------------------------------------------------------+
 | > ![](vertopal_8aeefffb6                                              |
 | 2cf49998f526c7bdd68ce06/media/image5.png){width="4.361111111111111in" |
