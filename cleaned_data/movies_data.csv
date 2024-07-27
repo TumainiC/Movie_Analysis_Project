@@ -113,7 +113,6 @@ Mad Max: Fury Road,May,150000000.0,370098020.0,220098020.0,"Action,Adventure,Sci
 Ready Player One,Mar,150000000.0,579290136.0,429290136.0,"Action,Adventure,Sci-Fi",Steven Spielberg
 The Last Airbender,Jul,150000000.0,319713881.0,169713881.0,"Action,Adventure,Family",M. Night Shyamalan
 Wrath of the Titans,Mar,150000000.0,305270083.0,155270083.0,"Action,Adventure,Fantasy",Jonathan Liebesman
-Beowulf,Nov,150000000.0,195080579.0,45080579.0,"Action,Drama,Fantasy",Zefei Liu
 Dark Shadows,May,150000000.0,238202668.0,88202668.0,"Comedy,Fantasy,Horror",Tim Burton
 White House Down,Jun,150000000.0,205440387.0,55440387.0,"Action,Drama,Thriller",Roland Emmerich
 The Wolfman,Feb,150000000.0,142634358.0,-7365642.0,"Drama,Fantasy,Horror",Joe Johnston
@@ -134,7 +133,6 @@ G.I. Joe: Retaliation,Mar,140000000.0,375740705.0,235740705.0,"Action,Adventure,
 Exodus: Gods and Kings,Dec,140000000.0,268314513.0,128314513.0,"Action,Adventure,Drama",Ridley Scott
 The BFG,Jul,140000000.0,199646680.0,59646680.0,"Adventure,Family,Fantasy",Steven Spielberg
 Gods of Egypt,Feb,140000000.0,138836756.0,-1163244.0,"Action,Adventure,Fantasy",Alex Proyas
-Stealth,Jul,138000000.0,76416746.0,-61583254.0,"Action,Comedy",Landen Wakil
 The Croods,Mar,135000000.0,573068425.0,438068425.0,"Action,Adventure,Animation",Kirk DeMicco
 The Revenant,Dec,135000000.0,532938302.0,397938302.0,"Action,Adventure,Biography",Alejandro G. Iñárritu
 Rango,Mar,135000000.0,245724600.0,110724600.0,"Adventure,Animation,Comedy",Gore Verbinski
@@ -204,13 +202,11 @@ The A-Team,Jun,110000000.0,177241171.0,67241171.0,"Action,Adventure,Thriller",Jo
 The Smurfs 2,Jul,110000000.0,348547523.0,238547523.0,"Adventure,Animation,Comedy",Raja Gosnell
 Ender's Game,Nov,110000000.0,127983283.0,17983283.0,"Action,Adventure,Fantasy",Gavin Hood
 Ghost in the Shell,Mar,110000000.0,167910690.0,57910690.0,"Action,Drama,Sci-Fi",Rupert Sanders
-Men in Black: International,Jun,110000000.0,3100000.0,-106900000.0,"Action,Adventure,Comedy",F. Gary Gray
 Ali,Dec,109000000.0,87683966.0,-21316034.0,Drama,Paco R. Baños
 The Martian,Oct,108000000.0,655271443.0,547271443.0,"Adventure,Drama,Sci-Fi",Ridley Scott
 Allied,Nov,106000000.0,119266661.0,13266661.0,"Action,Drama,Romance",Robert Zemeckis
 Ice Age: Collision Course,Jul,105000000.0,402156682.0,297156682.0,"Adventure,Animation,Comedy",Mike Thurmeier
 Kingsman: The Golden Circle,Sep,104000000.0,408803696.0,304803696.0,"Action,Adventure,Comedy",Matthew Vaughn
-Gladiator,May,103000000.0,457683805.0,354683805.0,"Documentary,Thriller",Laura Clarke
 Bumblebee,Dec,102000000.0,465195589.0,363195589.0,"Action,Adventure,Sci-Fi",Travis Knight
 Cloud Atlas,Oct,102000000.0,130673154.0,28673154.0,"Action,Drama,Mystery",Tom Tykwer
 Little Fockers,Dec,100000000.0,310650574.0,210650574.0,"Comedy,Romance",Paul Weitz
@@ -221,7 +217,6 @@ The Expendables 2,Aug,100000000.0,311979256.0,211979256.0,"Action,Adventure,Thri
 Hercules,Jul,100000000.0,243388614.0,143388614.0,"Action,Adventure,Fantasy",Brett Ratner
 Hercules,Jun,70000000.0,250700000.0,180700000.0,"Action,Adventure,Fantasy",Brett Ratner
 The Tourist,Dec,100000000.0,278731369.0,178731369.0,"Action,Adventure,Thriller",Florian Henckel von Donnersmarck
-End of Days,Nov,100000000.0,212026975.0,112026975.0,"Comedy,Documentary,Drama",Christoffer Dreyer
 Legend of the Guardians: The Owls of Ga'Hoole,Sep,100000000.0,139716717.0,39716717.0,"Action,Adventure,Animation",Zack Snyder
 Wonder Park,Mar,100000000.0,115149422.0,15149422.0,"Adventure,Animation,Comedy",Dylan Brown
 The Expendables 3,Aug,100000000.0,209461378.0,109461378.0,"Action,Adventure,Thriller",Patrick Hughes
@@ -232,8 +227,8 @@ Point Break,Jul,24000000.0,83531958.0,59531958.0,"Action,Crime,Sport",Ericson Co
 In the Heart of the Sea,Dec,100000000.0,89693309.0,-10306691.0,"Action,Adventure,Biography",Ron Howard
 The Peanuts Movie,Nov,99000000.0,250091610.0,151091610.0,"Adventure,Animation,Comedy",Steve Martino
 Alien: Covenant,May,97000000.0,238521247.0,141521247.0,"Horror,Sci-Fi,Thriller",Ridley Scott
-Cinderella,Mar,95000000.0,534551353.0,439551353.0,Musical,Brad Dalton
-Cinderella,Feb,2900000.0,263591415.0,260691415.0,Musical,Brad Dalton
+Cinderella,Mar,95000000.0,534551353.0,439551353.0,"Drama,Family,Fantasy",Kenneth Branagh
+Cinderella,Feb,2900000.0,263591415.0,260691415.0,"Drama,Family,Fantasy",Kenneth Branagh
 Ice Age: Continental Drift,Jul,95000000.0,879765137.0,784765137.0,"Adventure,Animation,Comedy",Steve Martino
 Sex and the City 2,May,95000000.0,294680778.0,199680778.0,"Comedy,Drama,Romance",Michael Patrick King
 Percy Jackson & the Olympians: The Lightning Thief,Feb,95000000.0,223050874.0,128050874.0,"Adventure,Family,Fantasy",Chris Columbus
@@ -247,10 +242,7 @@ Rise of the Planet of the Apes,Aug,93000000.0,470986200.0,377986200.0,"Action,Dr
 A Good Day to Die Hard,Feb,92000000.0,304249198.0,212249198.0,"Action,Thriller",John Moore
 The Secret Life of Walter Mitty,Dec,91000000.0,187861183.0,96861183.0,"Adventure,Comedy,Drama",Ben Stiller
 Jumanji: Welcome to the Jungle,Dec,90000000.0,964496193.0,874496193.0,"Action,Adventure,Comedy",Jake Kasdan
-What Lies Beneath,Jul,90000000.0,288693989.0,198693989.0,"Drama,Mystery,Thriller",Johnny M. Sizemore
 Rio,Apr,90000000.0,487519809.0,397519809.0,"Adventure,Animation,Comedy",Carlos Saldanha
-Charlie's Angels,Nov,90000000.0,259736090.0,169736090.0,"Action,Adventure,Comedy",Elizabeth Banks
-Mulan,Jun,90000000.0,303500000.0,213500000.0,"Adventure,Drama,Family",Niki Caro
 The Girl with the Dragon Tattoo,Dec,90000000.0,239373970.0,149373970.0,"Crime,Drama,Mystery",David Fincher
 Contact,Jul,90000000.0,165900000.0,75900000.0,"Documentary,History",Bentley Dean
 The Magnificent Seven,Sep,90000000.0,162525156.0,72525156.0,"Action,Adventure,Western",Antoine Fuqua
@@ -274,13 +266,10 @@ Shazam!,Apr,85000000.0,362899733.0,277899733.0,"Action,Adventure,Comedy",David F
 Safe House,Feb,85000000.0,208542162.0,123542162.0,"Action,Adventure,Crime",Daniel Espinosa
 Tower Heist,Nov,85000000.0,150422946.0,65422946.0,"Action,Comedy,Crime",Brett Ratner
 Mirror Mirror,Mar,85000000.0,173613482.0,88613482.0,"Adventure,Comedy,Drama",Tarsem Singh
-The Holiday,Dec,85000000.0,205190324.0,120190324.0,Drama,Jin-moo Kim
-The Rundown,Sep,85000000.0,80831893.0,-4168107.0,Action,Noah Scott
 Arthur Christmas,Nov,85000000.0,149717124.0,64717124.0,"Adventure,Animation,Comedy",Barry Cook
 xXx: Return of Xander Cage,Jan,85000000.0,345033359.0,260033359.0,"Action,Adventure,Thriller",D.J. Caruso
 Cats & Dogs: The Revenge of Kitty Galore,Jul,85000000.0,113026383.0,28026383.0,"Action,Comedy,Family",Brad Peyton
 Showtime,Mar,85000000.0,78948765.0,-6051235.0,"Drama,Fantasy,Musical",Stanley Kwan
-Father's Day,May,85000000.0,35681080.0,-49318920.0,Action,Quentin Lee
 The Greatest Showman,Dec,84000000.0,386665550.0,302665550.0,"Biography,Drama,Musical",Michael Gracey
 RED 2,Jul,84000000.0,141507355.0,57507355.0,"Action,Comedy,Crime",Dean Parisot
 Click,Jun,82500000.0,237685089.0,155185089.0,"Drama,Horror,Mystery",Sangeeth Sivan
@@ -299,10 +288,8 @@ Zookeeper,Jul,80000000.0,170805525.0,90805525.0,"Comedy,Family,Romance",Frank Co
 Conspiracy Theory,Aug,80000000.0,142783718.0,62783718.0,"Horror,Thriller",Jake Myers
 The Secret Life of Pets 2,Jun,80000000.0,113351496.0,33351496.0,"Adventure,Animation,Comedy",Chris Renaud
 Evolution,Jun,80000000.0,98341932.0,18341932.0,"Drama,Mystery,Sci-Fi",Lucile Hadzihalilovic
-The Wild,Apr,80000000.0,99010667.0,19010667.0,Documentary,Mark Titus
 The Last Witch Hunter,Oct,80000000.0,130818912.0,50818912.0,"Action,Adventure,Fantasy",Breck Eisner
 Pompeii,Feb,80000000.0,108469033.0,28469033.0,"Action,Adventure,Drama",Paul W.S. Anderson
-Nine,Dec,80000000.0,53508858.0,-26491142.0,Horror,Darren Lynch
 Timeline,Nov,80000000.0,26703184.0,-53296816.0,Romance,Nonzee Nimibutr
 Journey 2: The Mysterious Island,Feb,79000000.0,318146162.0,239146162.0,"Action,Adventure,Comedy",Brad Peyton
 Jack and Jill,Nov,79000000.0,150519217.0,71519217.0,Comedy,Dennis Dugan
@@ -321,19 +308,15 @@ Immortals,Nov,75000000.0,211562435.0,136562435.0,"Action,Drama,Fantasy",Tarsem S
 Life,Apr,75000000.0,73521587.0,-1478413.0,Documentary,Patrick Epape
 Life,Mar,58000000.0,100929666.0,42929666.0,Documentary,Patrick Epape
 Killers,Jun,75000000.0,95572749.0,20572749.0,"Action,Comedy,Romance",Robert Luketic
-Bandits,Oct,75000000.0,71523271.0,-3476729.0,Drama,Muyiwa Aluko
 Sucker Punch,Mar,75000000.0,89758389.0,14758389.0,"Action,Adventure,Fantasy",Zack Snyder
 Hostage,Mar,75000000.0,77636443.0,2636443.0,Thriller,Tony Glazer
-Inferno,Oct,75000000.0,219519367.0,144519367.0,Documentary,Patrick Fileti
-Soldier,Oct,75000000.0,14623082.0,-60376918.0,Drama,Richard Gilliam
-Virus,Jan,75000000.0,30626690.0,-44373310.0,"Documentary,Family",Neil Corbin
+Inferno,Oct,75000000.0,219519367.0,144519367.0,Thriller,Victor Vu
+Virus,Jan,75000000.0,30626690.0,-44373310.0,"Mystery,Sci-Fi,Thriller",Gino Montoya
 Minions,Jul,74000000.0,1160336173.0,1086336173.0,"Adventure,Animation,Comedy",Kyle Balda
 The SpongeBob Movie: Sponge Out of Water,Feb,74000000.0,311013181.0,237013181.0,"Adventure,Animation,Comedy",Mike Mitchell
 Unbreakable,Nov,73243106.0,248099143.0,174856037.0,"Adventure,Biography,Documentary",Ross Whitaker
 The Angry Birds Movie,May,73000000.0,352327887.0,279327887.0,"Action,Animation,Comedy",Clay Kaytis
-Snake Eyes,Aug,73000000.0,103891409.0,30891409.0,"Action,Adventure",Robert Schwentke
 Driven,Apr,72000000.0,54616869.0,-17383131.0,"Biography,Drama,Thriller",Nick Hamm
-Ransom,Nov,70000000.0,308700000.0,238700000.0,"Drama,Thriller",Mickey Fonseca
 Olympus Has Fallen,Mar,70000000.0,172878928.0,102878928.0,"Action,Thriller",Antoine Fuqua
 War Horse,Dec,70000000.0,156815529.0,86815529.0,"Drama,History,War",Steven Spielberg
 The Monuments Men,Feb,70000000.0,158702748.0,88702748.0,"Comedy,Drama,History",George Clooney
@@ -342,7 +325,7 @@ Big Fish,Dec,70000000.0,123954323.0,53954323.0,Action,Banzragch Batbold
 Wolf,Jun,70000000.0,131011757.0,61011757.0,"Action,Crime,Drama",Stef Desmyter
 The Lego Ninjago Movie,Sep,70000000.0,122737201.0,52737201.0,"Action,Adventure,Animation",Charlie Bean
 Dracula Untold,Oct,70000000.0,220241723.0,150241723.0,"Action,Drama,Fantasy",Gary Shore
-The Guardian,Sep,70000000.0,94973540.0,24973540.0,Drama,Mark Tuff
+The Guardian,Sep,70000000.0,94973540.0,24973540.0,"Action,Mystery,Sci-Fi",Logan Taaffe
 The Dilemma,Jan,70000000.0,70546865.0,546865.0,"Comedy,Drama",Ron Howard
 The Siege,Nov,70000000.0,116625798.0,46625798.0,Documentary,Angus Gibson
 Rock of Ages,Jun,70000000.0,61031932.0,-8968068.0,"Comedy,Drama,Musical",Adam Shankman
@@ -351,6 +334,7 @@ The Finest Hours,Jan,70000000.0,49252761.0,-20747239.0,"Action,Drama,History",Cr
 Escape Plan,Oct,70000000.0,103735965.0,33735965.0,"Action,Crime,Mystery",Mikael Håfström
 Killer Elite,Sep,70000000.0,65409046.0,-4590954.0,"Action,Crime,Thriller",Gary McKendry
 The Legend of Hercules,Jan,70000000.0,58953319.0,-11046681.0,"Action,Adventure,Fantasy",Renny Harlin
+Next,Apr,70000000.0,73591500.0,3591500.0,Documentary,Elia Urquiza
 Blackhat,Jan,70000000.0,19665004.0,-50334996.0,"Action,Crime,Thriller",Michael Mann
 Despicable Me,Jul,69000000.0,543464573.0,474464573.0,"Animation,Comedy,Family",Chris Renaud
 Dinner for Schmucks,Jul,69000000.0,86796502.0,17796502.0,Comedy,Jay Roach
@@ -360,12 +344,11 @@ Hall Pass,Feb,68000000.0,87173475.0,19173475.0,"Comedy,Romance",Bobby Farrelly
 Dreamcatcher,Mar,68000000.0,75685268.0,7685268.0,"Crime,Documentary,Drama",Kim Longinotto
 Downsizing,Dec,68000000.0,54462971.0,-13537029.0,"Drama,Sci-Fi",Alexander Payne
 Abraham Lincoln: Vampire Hunter,Jun,67500000.0,137489730.0,69989730.0,"Action,Fantasy,Horror",Timur Bekmambetov
-Entrapment,Apr,66000000.0,211700000.0,145700000.0,War,Lan An
 What Women Want,Dec,65000000.0,374105123.0,309105123.0,"Comedy,Romance,Sci-Fi",Daming Chen
 Lincoln,Nov,65000000.0,273346281.0,208346281.0,"Biography,Drama,History",Steven Spielberg
 Ice Age,Mar,65000000.0,386116343.0,321116343.0,"Crime,Drama,Family",Mostafa Kiayee
 Hotel Transylvania 3: Summer Vacation,Jul,65000000.0,527079962.0,462079962.0,"Adventure,Animation,Comedy",Genndy Tartakovsky
-Unbroken,Dec,65000000.0,163527824.0,98527824.0,Drama,Tayo Osasona
+Unbroken,Dec,65000000.0,163527824.0,98527824.0,"Biography,Drama,Sport",Angelina Jolie
 Due Date,Nov,65000000.0,211739043.0,146739043.0,"Adventure,Comedy",Todd Phillips
 This Means War,Feb,65000000.0,156974557.0,91974557.0,"Action,Comedy,Romance",McG
 Focus,Feb,65000000.0,168065700.0,103065700.0,"Comedy,Crime,Drama",Glenn Ficarra
@@ -387,7 +370,6 @@ Sully,Sep,60000000.0,238524556.0,178524556.0,"Biography,Drama",Clint Eastwood
 Red,Oct,60000000.0,196439693.0,136439693.0,Thriller,Danielle Colman
 Jack Reacher,Dec,60000000.0,217370736.0,157370736.0,"Action,Crime,Thriller",Christopher McQuarrie
 Contagion,Sep,60000000.0,137551594.0,77551594.0,"Action,Drama,Thriller",Steven Soderbergh
-Any Given Sunday,Dec,60000000.0,100230832.0,40230832.0,Documentary,Alan Ferrier Graham Jonston
 London Has Fallen,Mar,60000000.0,195194085.0,135194085.0,"Action,Thriller",Babak Najafi
 Hellboy,Apr,60000000.0,99823958.0,39823958.0,"Action,Adventure,Fantasy",Neil Marshall
 Hellboy,Apr,50000000.0,40725492.0,-9274508.0,"Action,Adventure,Fantasy",Neil Marshall
@@ -399,18 +381,19 @@ The Boxtrolls,Sep,60000000.0,111946251.0,51946251.0,"Adventure,Animation,Comedy"
 The Dark Tower,Aug,60000000.0,113461527.0,53461527.0,"Action,Adventure,Fantasy",Nikolaj Arcel
 Jack Ryan: Shadow Recruit,Jan,60000000.0,131377412.0,71377412.0,"Action,Drama,Thriller",Kenneth Branagh
 Vice,Dec,60000000.0,70883171.0,10883171.0,"Action,Adventure,Sci-Fi",Brian A. Miller
-Shooter,Mar,60000000.0,95538560.0,35538560.0,"Action,Crime,Drama",Vishram Sawant
+Shooter,Mar,60000000.0,95538560.0,35538560.0,Action,Raju Chowdhury
 Gangster Squad,Jan,60000000.0,104100903.0,44100903.0,"Action,Crime,Drama",Ruben Fleischer
 Smurfs: The Lost Village,Apr,60000000.0,197578586.0,137578586.0,"Adventure,Animation,Comedy",Kelly Asbury
 First Man,Oct,60000000.0,105203825.0,45203825.0,"Biography,Drama,History",Damien Chazelle
 Edge of Darkness,Jan,60000000.0,82812456.0,22812456.0,"Crime,Drama,Mystery",Martin Campbell
-Duplicity,Mar,60000000.0,81079566.0,21079566.0,Thriller,Charles Swain
+Duplicity,Mar,60000000.0,81079566.0,21079566.0,Mystery,Garrett Adams
 State of Play,Apr,60000000.0,88832210.0,28832210.0,"Documentary,Drama,Sport",Steven Dhoedt
 Trouble with the Curve,Sep,60000000.0,47818913.0,-12181087.0,"Drama,Sport",Robert Lorenz
 Almost Famous,Sep,60000000.0,47371191.0,-12628809.0,"Comedy,Drama,Family",Marco Carmel
 Cold Pursuit,Feb,60000000.0,62599159.0,2599159.0,"Action,Crime,Drama",Hans Petter Moland
 The Mortal Instruments: City of Bones,Aug,60000000.0,75965567.0,15965567.0,"Action,Fantasy,Horror",Harald Zwart
 Dragonfly,Feb,60000000.0,30063805.0,-29936195.0,"Crime,Drama,Thriller",Andrew Tiernan
+Supernova,Jan,60000000.0,14816494.0,-45183506.0,Drama,Tamar van den Dop
 Rock Dog,Feb,60000000.0,24148488.0,-35851512.0,"Adventure,Animation,Comedy",Ash Brannon
 Mortdecai,Jan,60000000.0,30396134.0,-29603866.0,"Action,Comedy,Crime",David Koepp
 Sherlock Gnomes,Mar,59000000.0,87527651.0,28527651.0,"Adventure,Animation,Comedy",John Stevenson
@@ -444,11 +427,7 @@ The Pirates! Band of Misfits,Apr,55000000.0,136143605.0,81143605.0,"Adventure,An
 Chain Reaction,Aug,55000000.0,60209334.0,5209334.0,Drama,Jakub Paczek
 Turbulence,Jan,55000000.0,11532774.0,-43467226.0,Comedy,Michael B. Clifford
 Bullet to the Head,Feb,55000000.0,22597969.0,-32402031.0,"Action,Crime,Thriller",Walter Hill
-Shaft,Jun,53012938.0,107190108.0,54177170.0,"Action,Comedy,Crime",Tim Story
-Shaft,Jun,30000000.0,600000.0,-29400000.0,"Action,Comedy,Crime",Tim Story
 Black Mass,Sep,53000000.0,98837872.0,45837872.0,"Biography,Crime,Drama",Scott Cooper
-Anastasia,Nov,53000000.0,139801096.0,86801096.0,"Adventure,Family,Fantasy",Blake Harris
-Moulin Rouge,May,53000000.0,179200588.0,126200588.0,Documentary,Shigeyuki Tanaka
 Beloved,Oct,53000000.0,22852487.0,-30147513.0,Comedy,Guel Arraes
 Zero Dark Thirty,Dec,52500000.0,134612435.0,82112435.0,"Drama,Thriller",Kathryn Bigelow
 The Change-Up,Aug,52000000.0,75997067.0,23997067.0,"Comedy,Fantasy",David Dobkin
@@ -468,12 +447,10 @@ Moneyball,Sep,50000000.0,111300835.0,61300835.0,"Biography,Drama,Sport",Bennett 
 American Reunion,Apr,50000000.0,236799211.0,186799211.0,Comedy,Jon Hurwitz
 Hansel & Gretel: Witch Hunters,Jan,50000000.0,214949716.0,164949716.0,"Action,Fantasy,Horror",Tommy Wirkola
 American Made,Sep,50000000.0,135569212.0,85569212.0,"Action,Biography,Comedy",Doug Liman
-The Game,Sep,50000000.0,80369970.0,30369970.0,Horror,Rogger Vergara Adrianzén
-Into the Storm,Aug,50000000.0,150429371.0,100429371.0,Documentary,Carol Fauls
+Into the Storm,Aug,50000000.0,150429371.0,100429371.0,"Action,Adventure,Drama",Steven Quale
 The Judge,Oct,50000000.0,76119388.0,26119388.0,"Crime,Drama",David Dobkin
 War Dogs,Aug,50000000.0,86234503.0,36234503.0,"Comedy,Crime,Drama",Todd Phillips
 The Peacemaker,Sep,50000000.0,62967368.0,12967368.0,Documentary,James Demo
-Out of Time,Oct,50000000.0,55489826.0,5489826.0,"Drama,Mystery,Thriller",David Matthew Weese
 The Nice Guys,May,50000000.0,59596747.0,9596747.0,"Action,Comedy,Crime",Shane Black
 Marmaduke,Jun,50000000.0,89895930.0,39895930.0,"Comedy,Family",Tom Dey
 Hereafter,Oct,50000000.0,108660270.0,58660270.0,"Drama,Fantasy,Romance",Clint Eastwood
@@ -483,7 +460,7 @@ The Host,Mar,50000000.0,64477051.0,14477051.0,"Action,Adventure,Drama",Andrew Ni
 Run All Night,Mar,50000000.0,66961644.0,16961644.0,"Action,Drama,Thriller",Jaume Collet-Serra
 Your Highness,Apr,50000000.0,26121638.0,-23878362.0,"Adventure,Comedy,Fantasy",David Gordon Green
 Snowden,Sep,50000000.0,35380918.0,-14619082.0,"Biography,Drama,Thriller",Oliver Stone
-Dream House,Sep,50000000.0,41642166.0,-8357834.0,"Comedy,Drama,Romance",Jeff Bemiss
+Dream House,Sep,50000000.0,41642166.0,-8357834.0,"Drama,Mystery,Thriller",Jim Sheridan
 Free State of Jones,Jun,50000000.0,23237252.0,-26762748.0,"Action,Biography,Drama",Gary Ross
 Gamer,Sep,50000000.0,42002029.0,-7997971.0,Drama,Oleg Sentsov
 Beautiful Creatures,Feb,50000000.0,60282876.0,10282876.0,"Drama,Fantasy,Romance",Richard LaGravenese
@@ -491,10 +468,10 @@ Fair Game,Nov,50000000.0,26097497.0,-23902503.0,"Biography,Drama,Thriller",Doug 
 Drive Angry,Feb,50000000.0,41042583.0,-8957417.0,"Action,Fantasy,Thriller",Patrick Lussier
 The Scarlet Letter,Oct,50000000.0,10359006.0,-39640994.0,"Drama,History",Elizabeth Berry
 Domino,Oct,50000000.0,23574057.0,-26425943.0,"Crime,Thriller",Brian De Palma
-Jade,Oct,50000000.0,9812870.0,-40187130.0,"Crime,Drama",Jess Carson
 Child 44,Apr,50000000.0,8004221.0,-41995779.0,"Crime,Drama,History",Daniel Espinosa
 Upside Down,Mar,50000000.0,26387039.0,-23612961.0,"Drama,Fantasy,Romance",Juan Solanas
 Shanghai,Oct,50000000.0,15505922.0,-34494078.0,"Crime,Drama,Mystery",Mikael Håfström
+The One,Nov,49000000.0,72689126.0,23689126.0,"Comedy,Drama,Romance",Caytha Jentis
 Chappie,Mar,49000000.0,105002056.0,56002056.0,"Action,Crime,Drama",Neill Blomkamp
 Anna Karenina,Nov,49000000.0,71004627.0,22004627.0,"Drama,Romance",Joe Wright
 Traffic,Dec,48000000.0,208300000.0,160300000.0,"Action,Adventure,Mystery",Rajesh Pillai
@@ -503,7 +480,6 @@ Taken 3,Jan,48000000.0,327656424.0,279656424.0,"Action,Thriller",Olivier Megaton
 Instant Family,Nov,48000000.0,119736188.0,71736188.0,"Comedy,Drama",Sean Anders
 Three Kings,Oct,48000000.0,107752036.0,59752036.0,"Biography,Documentary,Sport",D. Tattersall
 Tooth Fairy,Jan,48000000.0,112610386.0,64610386.0,"Comedy,Family,Fantasy",Michael Lembeck
-Out of Sight,Jun,48000000.0,77562568.0,29562568.0,Sport,Neil Hart
 Rambo,Jan,47500000.0,112214531.0,64714531.0,"Comedy,Drama,Thriller",Tarun Sudhir
 The Infiltrator,Jul,47500000.0,20718104.0,-26781896.0,"Biography,Crime,Drama",Brad Furman
 Arrival,Nov,47000000.0,203127894.0,156127894.0,"Drama,Mystery,Sci-Fi",Denis Villeneuve
@@ -511,20 +487,18 @@ Earth,Apr,47000000.0,116773317.0,69773317.0,Sci-Fi,Richard Reade
 Jonah Hex,Jun,47000000.0,11022696.0,-35977304.0,"Action,Drama,Fantasy",Jimmy Hayward
 Silence,Dec,46500000.0,23726626.0,-22773374.0,"Adventure,Drama,History",Martin Scorsese
 My Best Friend's Wedding,Jun,46000000.0,298923419.0,252923419.0,"Comedy,Romance",Feihong Chen
-Insomnia,May,46000000.0,113622499.0,67622499.0,Drama,Milena Partheniou
 Prisoners,Sep,46000000.0,113402302.0,67402302.0,"Crime,Drama,Mystery",Denis Villeneuve
 Taken 2,Oct,45000000.0,377807404.0,332807404.0,"Action,Thriller",Olivier Megaton
 Pitch Perfect 3,Dec,45000000.0,185736412.0,140736412.0,"Comedy,Music",Trish Sie
-The Bucket List,Dec,45000000.0,174807445.0,129807445.0,"Adventure,Comedy",Riley Rutter
 The Client,Jul,45000000.0,117615211.0,72615211.0,"Drama,Thriller",Young-Sung Sohn
 The Muppets,Nov,45000000.0,160971922.0,115971922.0,"Adventure,Comedy,Family",James Bobin
 The Girl on the Train,Oct,45000000.0,174278214.0,129278214.0,Thriller,Larry Brand
 The Bounty Hunter,Mar,45000000.0,135808837.0,90808837.0,"Action,Comedy,Romance",Andy Tennant
+Jack,Aug,45000000.0,58617334.0,13617334.0,Drama,Edward Berger
 Office Christmas Party,Dec,45000000.0,91323299.0,46323299.0,Comedy,Josh Gordon
 Savages,Jul,45000000.0,82513490.0,37513490.0,"Crime,Drama,Thriller",Oliver Stone
 Blended,May,45000000.0,127990741.0,82990741.0,"Comedy,Romance",Frank Coraci
 All Eyez on Me,Jun,45000000.0,54876855.0,9876855.0,"Biography,Drama,Music",Benny Boom
-Dune,Dec,45000000.0,27447471.0,-17552529.0,"Adventure,Drama,Sci-Fi",Denis Villeneuve
 Frankenstein,Nov,45000000.0,112006296.0,67006296.0,Drama,Danny Boyle
 UglyDolls,May,45000000.0,24644664.0,-20355336.0,"Adventure,Animation,Comedy",Kelly Asbury
 The Pledge,Jan,45000000.0,29406132.0,-15593868.0,"Drama,Family",J.W. Myers
@@ -534,8 +508,8 @@ Dredd,Sep,45000000.0,41467606.0,-3532394.0,"Action,Crime,Sci-Fi",Pete Travis
 The Rum Diary,Oct,45000000.0,21544732.0,-23455268.0,"Comedy,Drama",Bruce Robinson
 Welcome to Marwen,Dec,45000000.0,12874922.0,-32125078.0,"Biography,Comedy,Drama",Robert Zemeckis
 Johnny English Reborn,Oct,45000000.0,164640401.0,119640401.0,"Action,Adventure,Comedy",Oliver Parker
-Pinocchio,Dec,45000000.0,31681811.0,-13318189.0,"Animation,Fantasy,Musical",Mark Gustafson
-Pinocchio,Feb,2289247.0,84300000.0,82010753.0,"Animation,Fantasy,Musical",Mark Gustafson
+Pinocchio,Dec,45000000.0,31681811.0,-13318189.0,"Animation,Family,Fantasy",Enzo D'Alò
+Pinocchio,Feb,2289247.0,84300000.0,82010753.0,"Animation,Family,Fantasy",Enzo D'Alò
 Foodfight!,Dec,45000000.0,73706.0,-44926294.0,"Action,Animation,Comedy",Lawrence Kasanoff
 Charlie St. Cloud,Jul,44000000.0,48478084.0,4478084.0,"Drama,Fantasy,Romance",Burr Steers
 The Juror,Feb,44000000.0,22730924.0,-21269076.0,Drama,Seung-wan Hong
@@ -545,12 +519,12 @@ A Monster Calls,Jan,43000000.0,46414530.0,3414530.0,"Animation,Drama,Fantasy",J.
 The Mechanic,Jan,42500000.0,76347393.0,33847393.0,"Action,Crime,Thriller",Simon West
 21 Jump Street,Mar,42000000.0,202812429.0,160812429.0,"Action,Comedy,Crime",Phil Lord
 Boomerang,Jul,42000000.0,131052444.0,89052444.0,"Drama,Romance",François Favrat
-Snatched,May,42000000.0,57852177.0,15852177.0,Drama,Kevin Crouch
+Snatched,May,42000000.0,57852177.0,15852177.0,Comedy,Joe Cacaci
 Here Comes the Boom,Oct,42000000.0,73239258.0,31239258.0,"Action,Comedy,Sport",Frank Coraci
 Red Riding Hood,Mar,42000000.0,91678442.0,49678442.0,"Fantasy,Horror,Mystery",Catherine Hardwicke
 Holmes & Watson,Dec,42000000.0,41926605.0,-73395.0,"Adventure,Comedy,Crime",Etan Cohen
 One for the Money,Jan,42000000.0,36197221.0,-5802779.0,"Action,Comedy,Crime",Julie Anne Robinson
-Hero,Oct,42000000.0,66787173.0,24787173.0,Action,Anand Annamalai
+Hero,Oct,42000000.0,66787173.0,24787173.0,Drama,Manny Edwards
 Man on a Ledge,Jan,42000000.0,49621440.0,7621440.0,"Action,Adventure,Crime",Asger Leth
 The Warrior's Way,Dec,42000000.0,8514325.0,-33485675.0,"Action,Fantasy,Western",Sngmoo Lee
 Rocketman,May,41000000.0,108642725.0,67642725.0,"Biography,Drama,Music",Dexter Fletcher
@@ -567,14 +541,12 @@ Get Hard,Mar,40000000.0,106511453.0,66511453.0,"Comedy,Crime",Etan Cohen
 The Accountant,Oct,40000000.0,152962083.0,112962083.0,"Action,Crime,Drama",Gavin O'Connor
 Dumb and Dumber To,Nov,40000000.0,156553592.0,116553592.0,"Adventure,Comedy",Bobby Farrelly
 The Other Woman,Apr,40000000.0,195111193.0,155111193.0,"Comedy,Romance",Nick Cassavetes
-Ray,Oct,40000000.0,124823094.0,84823094.0,Crime,Riingo Banerjee
 Bridge of Spies,Oct,40000000.0,162498338.0,122498338.0,"Drama,History,Thriller",Steven Spielberg
 Hacksaw Ridge,Nov,40000000.0,168904682.0,128904682.0,"Biography,Drama,History",Mel Gibson
 Unknown,Feb,40000000.0,136123083.0,96123083.0,"Action,Mystery,Thriller",Jaume Collet-Serra
 Unknown,Nov,3700000.0,3355048.0,-344952.0,"Action,Mystery,Thriller",Jaume Collet-Serra
 Get Him to the Greek,Jun,40000000.0,91455875.0,51455875.0,"Adventure,Comedy,Music",Nicholas Stoller
 The Lincoln Lawyer,Mar,40000000.0,87145086.0,47145086.0,"Crime,Drama,Thriller",Brad Furman
-Invincible,Aug,40000000.0,58501127.0,18501127.0,Action,Daniel Zirilli
 Horrible Bosses 2,Nov,40000000.0,105945357.0,65945357.0,"Comedy,Crime",Sean Anders
 Predators,Jul,40000000.0,127234389.0,87234389.0,"Action,Adventure,Sci-Fi",Nimród Antal
 The Odd Life of Timothy Green,Aug,40000000.0,55249159.0,15249159.0,"Comedy,Drama,Family",Peter Hedges
@@ -588,7 +560,6 @@ The Guilt Trip,Dec,40000000.0,41294674.0,1294674.0,"Comedy,Drama",Anne Fletcher
 Colombiana,Aug,40000000.0,72295262.0,32295262.0,"Action,Drama,Thriller",Olivier Megaton
 The Commuter,Jan,40000000.0,101985431.0,61985431.0,"Action,Mystery,Thriller",Jaume Collet-Serra
 Arthur,Apr,40000000.0,47787943.0,7787943.0,"Comedy,Romance",Jason Winer
-The Shadow,Jul,40000000.0,31835600.0,-8164400.0,Documentary,Line Hatland
 Morning Glory,Nov,40000000.0,59795070.0,19795070.0,"Comedy,Drama,Romance",Roger Michell
 Long Shot,May,40000000.0,43711031.0,3711031.0,"Comedy,Romance",Jonathan Levine
 The Art of War,Aug,40000000.0,30199105.0,-9800895.0,War,Adam Starks
@@ -597,48 +568,42 @@ Resident Evil: The Final Chapter,Jan,40000000.0,314101190.0,274101190.0,"Action,
 The House,Jun,40000000.0,31192425.0,-8807575.0,"Drama,Mystery,Thriller",Desiree Lim
 The Reaping,Apr,40000000.0,62226214.0,22226214.0,"Comedy,Horror,Thriller",Roberto Santiago
 Season of the Witch,Jan,40000000.0,91126600.0,51126600.0,"Action,Adventure,Fantasy",Dominic Sena
-Renaissance Man,Jun,40000000.0,24172899.0,-15827101.0,Documentary,Evan Crowe
+Renaissance Man,Jun,40000000.0,24172899.0,-15827101.0,Documentary,Christopher Devalme
 Mechanic: Resurrection,Aug,40000000.0,109738840.0,69738840.0,"Action,Adventure,Thriller",Dennis Gansel
 Big Miracle,Feb,40000000.0,25268680.0,-14731320.0,"Biography,Drama,Family",Ken Kwapis
 The Impossible,Dec,40000000.0,169590606.0,129590606.0,"Drama,History,Thriller",J.A. Bayona
-Kiss of Death,Apr,40000000.0,14942422.0,-25057578.0,"Comedy,Drama",Musing Derick Tenn
 The Gunman,Mar,40000000.0,18594227.0,-21405773.0,"Action,Crime,Drama",Pierre Morel
 Paranoia,Aug,40000000.0,16340767.0,-23659233.0,"Drama,Thriller",Robert Luketic
 Baahubali: The Beginning,Jul,40000000.0,26736665.0,-13263335.0,"Action,Drama",S.S. Rajamouli
 The Hurricane Heist,Mar,40000000.0,30963684.0,-9036316.0,"Action,Adventure,Crime",Rob Cohen
 Victor Frankenstein,Nov,40000000.0,31124367.0,-8875633.0,"Drama,Horror,Sci-Fi",Paul McGuigan
 Snowpiercer,Jun,40000000.0,88069880.0,48069880.0,"Action,Drama,Sci-Fi",Joon-ho Bong
-Sunshine,Jul,40000000.0,32030610.0,-7969390.0,Drama,Adrienne Nelson
 Pirates,Jul,40000000.0,6341825.0,-33658175.0,"Action,Adventure,Comedy",Seok-hoon Lee
 The Last Shot,Sep,40000000.0,463730.0,-39536270.0,Action,Emilio Rodriguez
 Kursk,Jun,40000000.0,4212799.0,-35787201.0,Drama,Amanda Boyle
 USS Indianapolis: Men of Courage,Nov,40000000.0,1663785.0,-38336215.0,"Action,Drama,History",Mario Van Peebles
 Frankenweenie,Oct,39000000.0,81150788.0,42150788.0,"Animation,Comedy,Family",Tim Burton
-Serenity,Sep,39000000.0,40319440.0,1319440.0,"Biography,Documentary,Drama",Lapo Melzi
-Serenity,Jan,25000000.0,11367029.0,-13632971.0,"Biography,Documentary,Drama",Lapo Melzi
+Serenity,Sep,39000000.0,40319440.0,1319440.0,"Drama,Mystery,Sci-Fi",Steven Knight
+Serenity,Jan,25000000.0,11367029.0,-13632971.0,"Drama,Mystery,Sci-Fi",Steven Knight
 Captain Underpants: The First Epic Movie,Jun,38000000.0,126577874.0,88577874.0,"Action,Animation,Comedy",David Soren
 Paul Blart: Mall Cop 2,Apr,38000000.0,107650646.0,69650646.0,"Action,Comedy,Crime",Andy Fickman
 Why Him?,Dec,38000000.0,117425156.0,79425156.0,Comedy,John Hamburg
 Water for Elephants,Apr,38000000.0,116809717.0,78809717.0,"Drama,Romance",Francis Lawrence
 Life as We Know It,Oct,38000000.0,105887837.0,67887837.0,"Comedy,Drama,Romance",Greg Berlanti
 Riddick,Sep,38000000.0,94763758.0,56763758.0,"Action,Adventure,Sci-Fi",David Twohy
-Enough,May,38000000.0,50970660.0,12970660.0,"Drama,History",Ockert Potgieter
 The 5th Wave,Jan,38000000.0,111336398.0,73336398.0,"Action,Adventure,Drama",J Blakeson
+Push,Feb,38000000.0,49678401.0,11678401.0,Documentary,Fredrik Gertten
 Rush,Sep,38000000.0,98230839.0,60230839.0,"Action,Biography,Drama",Ron Howard
 Only the Brave,Oct,38000000.0,24555177.0,-13444823.0,"Action,Biography,Drama",Joseph Kosinski
 The Thing,Oct,38000000.0,27573078.0,-10426922.0,"Horror,Mystery,Sci-Fi",Matthijs van Heijningen Jr.
-Rock Star,Sep,38000000.0,19317765.0,-18682235.0,"Action,Drama,Romance",Kumar Saroj
 The Sisters Brothers,Sep,38000000.0,13143056.0,-24856944.0,"Adventure,Comedy,Crime",Jacques Audiard
 The Upside,Jan,37500000.0,119024536.0,81524536.0,"Comedy,Drama",Neil Burger
 What to Expect When You're Expecting,May,37500000.0,88473016.0,50973016.0,"Comedy,Drama,Romance",Kirk Jones
 The Master,Sep,37500000.0,50647416.0,13147416.0,Drama,Paul Thomas Anderson
-Twilight,Nov,37000000.0,402280159.0,365280159.0,Documentary,Reza Golchin
-Twilight,Mar,20000000.0,15055091.0,-4944909.0,Documentary,Reza Golchin
 We're the Millers,Aug,37000000.0,267816276.0,230816276.0,"Comedy,Crime",Rawson Marshall Thurber
 Dolphin Tale,Sep,37000000.0,96068724.0,59068724.0,"Drama,Family",Charles Martin Smith
 Game Night,Feb,37000000.0,117378084.0,80378084.0,"Action,Comedy,Crime",John Francis Daley
 The Rite,Jan,37000000.0,97143987.0,60143987.0,"Drama,Horror,Mystery",Mikael Håfström
-Magnolia,Dec,37000000.0,48446802.0,11446802.0,"Drama,Family,Romance",Mehdi Mazloumi
 Aloha,May,37000000.0,25387091.0,-11612909.0,"Comedy,Drama,Romance",Cameron Crowe
 A Star is Born,Oct,36000000.0,433449571.0,397449571.0,"Documentary,Music",Vanja Kovacevic
 Hot Tub Time Machine,Mar,36000000.0,65967750.0,29967750.0,"Comedy,Sci-Fi",Steve Pink
@@ -675,8 +640,7 @@ Hot Pursuit,May,35000000.0,45671512.0,10671512.0,"Action,Comedy,Crime",Anne Flet
 Concussion,Dec,35000000.0,50363790.0,15363790.0,Drama,Stacie Passon
 The Foreigner,Oct,35000000.0,140783360.0,105783360.0,"Action,Thriller",Martin Campbell
 Closer,Dec,35000000.0,116177695.0,81177695.0,Drama,Mostafa Ahmadi
-Adrift,Jun,35000000.0,57897191.0,22897191.0,Drama,Barbara Sundstrom
-Mirrors,Aug,35000000.0,77220596.0,42220596.0,Documentary,Yael Arava Shuldman
+Adrift,Jun,35000000.0,57897191.0,22897191.0,Drama,Fernando Pacheco
 Underworld: Blood Wars,Jan,35000000.0,81209222.0,46209222.0,"Action,Adventure,Fantasy",Anna Foerster
 Abduction,Sep,35000000.0,86648359.0,51648359.0,"Action,Mystery,Thriller",John Singleton
 Alex Cross,Oct,35000000.0,35426759.0,426759.0,"Action,Crime,Mystery",Rob Cohen
@@ -686,7 +650,6 @@ Whiskey Tango Foxtrot,Mar,35000000.0,25350747.0,-9649253.0,"Biography,Comedy,Dra
 Hitman: Agent 47,Aug,35000000.0,82182803.0,47182803.0,"Action,Adventure,Crime",Aleksander Bach
 Premium Rush,Aug,35000000.0,31393201.0,-3606799.0,"Action,Crime,Thriller",David Koepp
 Broken City,Jan,35000000.0,34480045.0,-519955.0,"Crime,Drama,Thriller",Allen Hughes
-Wonder Boys,Feb,35000000.0,33422485.0,-1577515.0,"Crime,Thriller",Sreekanth S. Nair
 Cursed,Feb,35000000.0,25114901.0,-9885099.0,"Drama,War",Konrad Lecki
 Furry Vengeance,Apr,35000000.0,39340177.0,4340177.0,"Comedy,Family",Roger Kumble
 Parker,Jan,35000000.0,48543388.0,13543388.0,"Action,Crime,Thriller",Taylor Hackford
@@ -694,7 +657,7 @@ Bait,Sep,35000000.0,15471969.0,-19528031.0,"Action,Adventure,Drama",Kimble Renda
 The Tree of Life,May,35000000.0,61721826.0,26721826.0,"Drama,Fantasy",Terrence Malick
 Zoom,Aug,35000000.0,12506188.0,-22493812.0,"Animation,Comedy,Drama",Pedro Morelli
 Sabotage,Mar,35000000.0,18376443.0,-16623557.0,"Action,Crime,Drama",David Ayer
-Unfinished Business,Mar,35000000.0,13214051.0,-21785949.0,"Drama,Family",Werner Kriegelstein
+Unfinished Business,Mar,35000000.0,13214051.0,-21785949.0,"Comedy,Drama",Ken Scott
 Mandela: Long Walk to Freedom,Nov,35000000.0,29890402.0,-5109598.0,"Biography,Drama,History",Justin Chadwick
 The Brothers Grimsby,Mar,35000000.0,28720470.0,-6279530.0,"Action,Adventure,Comedy",Louis Leterrier
 The Snowman,Oct,35000000.0,43226146.0,8226146.0,"Crime,Drama,Mystery",Tomas Alfredson
@@ -708,20 +671,17 @@ The Darkest Hour,Dec,34800000.0,62831715.0,28031715.0,"Action,Adventure,Horror",
 Baby Driver,Jun,34000000.0,228104185.0,194104185.0,"Action,Crime,Drama",Edgar Wright
 The Maze Runner,Sep,34000000.0,348319861.0,314319861.0,"Action,Mystery,Sci-Fi",Wes Ball
 The Longest Ride,Apr,34000000.0,63802928.0,29802928.0,"Drama,Romance",George Tillman Jr.
-The Age of Innocence,Sep,34000000.0,32014993.0,-1985007.0,Drama,Qi Song
 The Darkest Minds,Aug,34000000.0,38361428.0,4361428.0,"Action,Adventure,Drama",Jennifer Yuh Nelson
 Thunder and the House of Magic,Sep,34000000.0,62582520.0,28582520.0,"Adventure,Animation,Comedy",Jeremy Degruson
-Exit Wounds,Mar,33000000.0,79958599.0,46958599.0,"Documentary,Drama,War",Pattie Collins
 Mike and Dave Need Wedding Dates,Jul,33000000.0,75898100.0,42898100.0,"Adventure,Comedy,Romance",Jake Szymanski
 Step Up Revolution,Jul,33000000.0,165552290.0,132552290.0,"Drama,Music,Romance",Scott Speer
-The Watcher,Sep,33000000.0,47267829.0,14267829.0,Drama,Nate Bernard
+The Watcher,Sep,33000000.0,47267829.0,14267829.0,Drama,Christopher Oh
 Safe,Apr,33000000.0,41495213.0,8495213.0,"Action,Crime,Thriller",Boaz Yakin
 Doomsday,Mar,33000000.0,21621188.0,-11378812.0,"Action,Sci-Fi",Neil Johnson
 The Young and Prodigious T.S. Spivet,Jul,33000000.0,357687.0,-32642313.0,"Action,Adventure,Comedy",Jean-Pierre Jeunet
 Freaks of Nature,Oct,33000000.0,70958.0,-32929042.0,"Comedy,Horror,Sci-Fi",Robbie Pickering
 Bridesmaids,May,32500000.0,289632023.0,257132023.0,"Comedy,Romance",Paul Feig
 The Big Wedding,Apr,32500000.0,48425971.0,15925971.0,"Comedy,Drama,Romance",Justin Zackham
-Wanderlust,Feb,32500000.0,24159934.0,-8340066.0,Fantasy,Graeme Higginson
 Phenomenon,Jul,32000000.0,152036382.0,120036382.0,Drama,Ali Ahmadzade
 Takers,Aug,32000000.0,70587268.0,38587268.0,"Action,Crime,Thriller",John Luessenhop
 Source Code,Apr,32000000.0,140428499.0,108428499.0,"Action,Drama,Sci-Fi",Duncan Jones
@@ -731,7 +691,7 @@ Alive,Jan,32000000.0,36299670.0,4299670.0,Drama,Jung-bum Park
 The Incredible Burt Wonderstone,Mar,32000000.0,27392609.0,-4607391.0,"Adventure,Comedy,Fantasy",Don Scardino
 Going the Distance,Sep,32000000.0,43603990.0,11603990.0,"Comedy,Romance",Nanette Burstein
 Repo Men,Mar,32000000.0,18195238.0,-13804762.0,"Action,Crime,Sci-Fi",Miguel Sapochnik
-Criminal,Apr,31500000.0,38771262.0,7271262.0,"Action,Crime,Drama",Dilip Panda
+Criminal,Apr,31500000.0,38771262.0,7271262.0,"Action,Crime,Drama",Ariel Vromen
 42,Apr,31000000.0,97470701.0,66470701.0,"Biography,Drama,Sport",Brian Helgeland
 Flight,Nov,31000000.0,160558438.0,129558438.0,"Drama,Thriller",Robert Zemeckis
 The Grand Budapest Hotel,Mar,31000000.0,163981261.0,132981261.0,"Adventure,Comedy,Crime",Wes Anderson
@@ -740,12 +700,10 @@ Frequency,Apr,31000000.0,68079671.0,37079671.0,"Sci-Fi,Thriller",Jeff Prince
 Extraordinary Measures,Jan,31000000.0,15826984.0,-15173016.0,Drama,Tom Vaughan
 Birth of the Dragon,Aug,31000000.0,7220490.0,-23779510.0,"Action,Biography,Drama",George Nolfi
 Crazy Rich Asians,Aug,30000000.0,238099711.0,208099711.0,"Comedy,Romance",Jon M. Chu
-Chicago,Dec,30000000.0,306770545.0,276770545.0,Documentary,Sarah Morris
 Big Daddy,Jun,30000000.0,228641283.0,198641283.0,Drama,Imran Sheikh
 The Vow,Feb,30000000.0,197618160.0,167618160.0,"Drama,Romance",Michael Sucsy
 Speed,Jun,30000000.0,283200000.0,253200000.0,Drama,Sang-woo Lee
 Lee Daniels' The Butler,Aug,30000000.0,177025498.0,147025498.0,"Biography,Drama",Lee Daniels
-The Addams Family,Nov,30000000.0,191502246.0,161502246.0,"Animation,Comedy,Family",Greg Tiernan
 Sisters,Dec,30000000.0,106030660.0,76030660.0,Comedy,Jason Moore
 The Notebook,Jun,30000000.0,116025023.0,86025023.0,"Drama,War",János Szász
 Looper,Sep,30000000.0,170466405.0,140466405.0,"Action,Crime,Drama",Rian Johnson
@@ -754,7 +712,7 @@ The Nut Job,Jan,30000000.0,122529966.0,92529966.0,"Adventure,Animation,Comedy",P
 Down to Earth,Feb,30000000.0,71172251.0,41172251.0,"Adventure,Documentary",Rolf Winters
 Hope Springs,Aug,30000000.0,133085295.0,103085295.0,"Comedy,Drama,Romance",David Frankel
 Bride Wars,Jan,30000000.0,115150424.0,85150424.0,Comedy,Tony Chan
-Midnight in Paris,May,30000000.0,162502774.0,132502774.0,"Comedy,Documentary,Drama",Roni Moore
+Midnight in Paris,May,30000000.0,162502774.0,132502774.0,"Comedy,Fantasy,Romance",Woody Allen
 Darkest Hour,Nov,30000000.0,150807172.0,120807172.0,"Biography,Drama,History",Joe Wright
 Life of the Party,May,30000000.0,65759911.0,35759911.0,"Comedy,Drama",Michael Budd
 Letters to Juliet,May,30000000.0,82148538.0,52148538.0,"Adventure,Comedy,Drama",Gary Winick
@@ -768,7 +726,6 @@ John Wick,Oct,30000000.0,76235001.0,46235001.0,"Action,Crime,Thriller",David Lei
 The Age of Adaline,Apr,30000000.0,68984536.0,38984536.0,"Drama,Fantasy,Romance",Lee Toland Krieger
 Step Up 3D,Aug,30000000.0,165889117.0,135889117.0,"Drama,Music,Romance",Jon M. Chu
 Hanna,Apr,30000000.0,65343694.0,35343694.0,"Action,Drama,Thriller",Joe Wright
-Midnight Run,Jul,30000000.0,81613606.0,51613606.0,Mystery,Kana Yamada
 The 15:17 to Paris,Feb,30000000.0,56096200.0,26096200.0,"Biography,Drama,Thriller",Clint Eastwood
 Carrie,Oct,30000000.0,82409520.0,52409520.0,"Drama,Horror",Kimberly Peirce
 Carrie,Nov,1800000.0,25878153.0,24078153.0,"Drama,Horror",Kimberly Peirce
@@ -789,7 +746,6 @@ Runner Runner,Oct,30000000.0,60512680.0,30512680.0,"Crime,Thriller",Brad Furman
 Baahubali 2: The Conclusion,Apr,30000000.0,263502914.0,233502914.0,"Action,Drama",S.S. Rajamouli
 Fright Night,Aug,30000000.0,40520649.0,10520649.0,"Comedy,Horror",Craig Gillespie
 Steve Jobs,Oct,30000000.0,35579007.0,5579007.0,"Biography,Drama",Danny Boyle
-The Cave,Aug,30000000.0,27147991.0,-2852009.0,"Adventure,Animation,Documentary",Qi Zhao
 Godsend,Apr,30000000.0,16910708.0,-13089292.0,Drama,Moon Si-Hyun
 The New World,Dec,30000000.0,26184400.0,-3815600.0,Documentary,Jaan Tootsen
 The Last Stand,Jan,30000000.0,48330757.0,18330757.0,"Action,Thriller",Jee-woon Kim
@@ -797,11 +753,10 @@ Dead Man Down,Mar,30000000.0,19599974.0,-10400026.0,"Action,Crime,Drama",Niels A
 The Lost City of Z,Apr,30000000.0,17121823.0,-12878177.0,"Adventure,Biography,Drama",James Gray
 The Space Between Us,Feb,30000000.0,16481405.0,-13518595.0,"Adventure,Drama,Romance",Peter Chelsom
 Barney's Version,Jan,30000000.0,8845575.0,-21154425.0,"Comedy,Drama",Richard J. Lewis
-Trapped,Sep,30000000.0,6916869.0,-23083131.0,Drama,Kaya Purohit
+Trapped,Sep,30000000.0,6916869.0,-23083131.0,"Adventure,Drama,Thriller",Philippe Weibel
 Kin,Aug,30000000.0,10096821.0,-19903179.0,"Drama,Music",Rachel Lambert
 Stronger,Sep,30000000.0,8786752.0,-21213248.0,"Biography,Drama",David Gordon Green
 Gloria,Jan,30000000.0,4967493.0,-25032507.0,"Comedy,Drama,Romance",Sebastián Lelio
-The Merchant of Venice,Dec,30000000.0,18765585.0,-11234415.0,Drama,David Serero
 Machine Gun Preacher,Sep,30000000.0,3721988.0,-26278012.0,"Action,Biography,Crime",Marc Forster
 Bilal: A New Breed of Hero,Feb,30000000.0,648599.0,-29351401.0,"Action,Adventure,Animation",Ayman Jamal
 Wild Card,Jan,30000000.0,4315789.0,-25684211.0,"Action,Crime,Drama",Simon West
@@ -818,12 +773,12 @@ Girls Trip,Jul,28000000.0,140886353.0,112886353.0,"Comedy,Drama",Malcolm D. Lee
 A Bad Moms Christmas,Nov,28000000.0,127710550.0,99710550.0,"Adventure,Comedy",Jon Lucas
 Safe Haven,Feb,28000000.0,94050951.0,66050951.0,"Drama,Romance,Thriller",Lasse Hallström
 The Big Short,Dec,28000000.0,133162752.0,105162752.0,"Biography,Comedy,Drama",Adam McKay
-Role Models,Nov,28000000.0,94500826.0,66500826.0,Documentary,Salome Oggenfuss
+Role Models,Nov,28000000.0,94500826.0,66500826.0,"Comedy,Drama",Raffi
 "Alexander and the Terrible, Horrible, No Good, Very Bad Day",Oct,28000000.0,101379287.0,73379287.0,"Comedy,Family",Miguel Arteta
-Miracle,Feb,28000000.0,64474705.0,36474705.0,Thriller,Rudrapatla Venugopal
+Miracle,Feb,28000000.0,64474705.0,36474705.0,Drama,Juraj Lehotsky
 Last Vegas,Jan,28000000.0,112914167.0,84914167.0,"Comedy,Drama",Jon Turteltaub
 Tag,Jun,28000000.0,77026186.0,49026186.0,Drama,Danny Roth
-Identity,Apr,28000000.0,82183683.0,54183683.0,Drama,Behrouz Sebt Rasoul
+Identity,Apr,28000000.0,82183683.0,54183683.0,"Crime,Drama",Samuel Thivierge
 Serendipity,Oct,28000000.0,77477297.0,49477297.0,Drama,Indra Gunawan
 Kick-Ass,Apr,28000000.0,97531134.0,69531134.0,"Action,Comedy",Matthew Vaughn
 30 Minutes or Less,Aug,28000000.0,40966716.0,12966716.0,"Action,Comedy,Crime",Ruben Fleischer
@@ -832,25 +787,24 @@ Kick-Ass 2,Aug,28000000.0,63129909.0,35129909.0,"Action,Comedy,Crime",Jeff Wadlo
 A Walk Among the Tombstones,Sep,28000000.0,62108587.0,34108587.0,"Action,Crime,Drama",Scott Frank
 The Spy Next Door,Jan,28000000.0,46752858.0,18752858.0,"Action,Comedy,Family",Brian Levant
 Brick Mansions,Apr,28000000.0,73421224.0,45421224.0,"Action,Crime",Camille Delamarre
-Lost Souls,Oct,28000000.0,31320293.0,3320293.0,"Action,Drama",Laron Green
 American Ultra,Aug,28000000.0,30295028.0,2295028.0,"Action,Comedy,Sci-Fi",Nima Nourizadeh
 Pride and Prejudice and Zombies,Feb,28000000.0,16638300.0,-11361700.0,"Action,Comedy,Horror",Burr Steers
 Anonymous,Oct,27500000.0,15815509.0,-11684491.0,"Drama,Thriller",Roland Emmerich
 Limitless,Mar,27000000.0,155564919.0,128564919.0,"Mystery,Sci-Fi,Thriller",Neil Burger
 Money Monster,May,27000000.0,93466095.0,66466095.0,"Crime,Drama,Thriller",Jodie Foster
 Flawless,Nov,27000000.0,4485485.0,-22514515.0,Drama,Tal Granit
-What Just Happened,Oct,27000000.0,2412123.0,-24587877.0,Comedy,Charles Uwagbai
 Flatliners,Aug,26000000.0,61308153.0,35308153.0,"Drama,Horror,Mystery",Niels Arden Oplev
 Flatliners,Sep,20000000.0,45173738.0,25173738.0,"Drama,Horror,Mystery",Niels Arden Oplev
 Red Eye,Aug,26000000.0,96666486.0,70666486.0,Horror,Tristan Clay
 Pain & Gain,Apr,26000000.0,81275291.0,55275291.0,"Action,Comedy,Crime",Michael Bay
 Lawless,Aug,26000000.0,54393687.0,28393687.0,"Crime,Drama",John Hillcoat
-Brothers,Dec,26000000.0,45043870.0,19043870.0,Documentary,Michael Norton
-Brothers,Aug,13000000.0,17856688.0,4856688.0,Documentary,Michael Norton
+Brothers,Dec,26000000.0,45043870.0,19043870.0,Drama,Mika Kaurismäki
+Brothers,Aug,13000000.0,17856688.0,4856688.0,Drama,Mika Kaurismäki
 The Best of Me,Oct,26000000.0,41059418.0,15059418.0,"Drama,Romance",Michael Hoffman
 Original Sin,Aug,26000000.0,16521410.0,-9478590.0,Comedy,Jean Lee
 The Raven,Apr,26000000.0,30601801.0,4601801.0,"Crime,Mystery,Thriller",James McTeigue
 The Fifth Estate,Oct,26000000.0,6154172.0,-19845828.0,"Biography,Drama,Thriller",Bill Condon
+Blood Ties,Mar,26000000.0,2923959.0,-23076041.0,"Action,Crime,Drama",Guillaume Canet
 Viy,Jun,26000000.0,34246770.0,8246770.0,"Adventure,Fantasy,Mystery",Oleg Stepchenko
 Accidental Love,Mar,26000000.0,135436.0,-25864564.0,"Comedy,Romance",David O. Russell
 The Help,Aug,25000000.0,213120004.0,188120004.0,Drama,Tate Taylor
@@ -866,10 +820,8 @@ The Lucky One,Apr,25000000.0,96633833.0,71633833.0,"Drama,Romance",Scott Hicks
 Madea's Big Happy Family,Apr,25000000.0,54160818.0,29160818.0,"Comedy,Drama",Tyler Perry
 The Grey,Jan,25000000.0,81249176.0,56249176.0,"Action,Adventure,Drama",Joe Carnahan
 Hide and Seek,Jan,25000000.0,123696741.0,98696741.0,"Action,Horror,Mystery",Jung Huh
-Cobra,May,25000000.0,49042224.0,24042224.0,Drama,Ram Gopal Varma
 The Giver,Aug,25000000.0,66540205.0,41540205.0,"Drama,Romance,Sci-Fi",Phillip Noyce
 The Night Before,Nov,25000000.0,52427346.0,27427346.0,"Adventure,Comedy,Fantasy",Jonathan Levine
-Money Talks,Aug,25000000.0,41076865.0,16076865.0,Crime,Bobby Mills-Thomas
 August: Osage County,Dec,25000000.0,50738810.0,25738810.0,"Comedy,Drama",John Wells
 Million Dollar Arm,May,25000000.0,39217912.0,14217912.0,"Biography,Drama,Sport",Craig Gillespie
 Peppermint,Sep,25000000.0,51800758.0,26800758.0,"Action,Crime,Drama",Pierre Morel
@@ -878,7 +830,7 @@ The Gambler,Dec,25000000.0,38718031.0,13718031.0,Drama,Szabolcs Hajdu
 The Gambler,Aug,3000000.0,101773.0,-2898227.0,Drama,Szabolcs Hajdu
 Fist Fight,Feb,25000000.0,40286416.0,15286416.0,Comedy,Richie Keen
 The Sitter,Dec,25000000.0,38749404.0,13749404.0,Comedy,David Gordon Green
-Elizabeth,Nov,25000000.0,82150642.0,57150642.0,"Biography,Documentary,Drama",Eui Yong Zong
+Elizabeth,Nov,25000000.0,82150642.0,57150642.0,Thriller,Brad Scriffiano
 Draft Day,Apr,25000000.0,29847480.0,4847480.0,"Drama,Sport",Ivan Reitman
 Rings,Feb,25000000.0,82917283.0,57917283.0,"Drama,Horror,Mystery",F. Javier Gutiérrez
 Don't Be Afraid of the Dark,Aug,25000000.0,39126427.0,14126427.0,"Fantasy,Horror,Thriller",Troy Nixey
@@ -889,6 +841,8 @@ Shark Night 3D,Sep,25000000.0,18877153.0,-6122847.0,"Horror,Thriller",David R. E
 Father Figures,Dec,25000000.0,21038441.0,-3961559.0,"Adventure,Comedy,Drama",Lawrence Sher
 The Counselor,Oct,25000000.0,71009334.0,46009334.0,"Crime,Drama,Thriller",Ridley Scott
 Mary Queen of Scots,Dec,25000000.0,46734733.0,21734733.0,"Biography,Drama,History",Thomas Imbach
+Legend,Apr,25000000.0,23506237.0,-1493763.0,"Action,Drama",Boyapati Srinu
+Legend,Nov,25000000.0,42425450.0,17425450.0,"Action,Drama",Boyapati Srinu
 The Box,Nov,25000000.0,34356760.0,9356760.0,Drama,Andrijana Stojkovic
 My Soul to Take,Oct,25000000.0,16727470.0,-8272530.0,"Horror,Mystery,Thriller",Wes Craven
 Warrior,Sep,25000000.0,24215385.0,-784615.0,"Drama,Sport",Gavin O'Connor
@@ -898,17 +852,14 @@ The 33,Nov,25000000.0,28400715.0,3400715.0,"Biography,Drama,History",Patricia Ri
 The Conspirator,Apr,25000000.0,15907411.0,-9092589.0,"Crime,Drama,History",Robert Redford
 Straw Dogs,Sep,25000000.0,11253821.0,-13746179.0,"Action,Drama,Thriller",Rod Lurie
 Possession,Aug,25000000.0,14805812.0,-10194188.0,"Drama,Mystery",Dan Cordle
-The Road,Nov,25000000.0,29206732.0,4206732.0,Documentary,Tonny Trimarsanto
+The Road,Nov,25000000.0,29206732.0,4206732.0,"Crime,Drama,Horror",Yam Laranas
 Beautiful Boy,Oct,25000000.0,13031424.0,-11968576.0,"Biography,Drama",Felix van Groeningen
-The Hoax,Apr,25000000.0,7164995.0,-17835005.0,"Crime,Documentary,Drama",Rodney Gray
 Captive State,Mar,25000000.0,8993300.0,-16006700.0,"Sci-Fi,Thriller",Rupert Wyatt
 Blindness,Oct,25000000.0,20052958.0,-4947042.0,Drama,Ryszard Bugajski
 Sgt. Stubby: An American Hero,Apr,25000000.0,3645957.0,-21354043.0,"Adventure,Animation,Family",Richard Lanni
 Carnage,Dec,25000000.0,38112154.0,13112154.0,"Comedy,Drama",Roman Polanski
 Tulip Fever,Sep,25000000.0,6792768.0,-18207232.0,"Drama,History,Romance",Justin Chadwick
 Jane Got a Gun,Jan,25000000.0,3771345.0,-21228655.0,"Action,Drama,Western",Gavin O'Connor
-Where the Truth Lies,Oct,25000000.0,1415656.0,-23584344.0,Drama,Rickey Colbert
-Without Limits,Sep,25000000.0,780326.0,-24219674.0,Sport,James Holden
 On the Road,Mar,25000000.0,9313302.0,-15686698.0,"Adventure,Drama,Romance",Walter Salles
 Love Ranch,Jun,25000000.0,146149.0,-24853851.0,"Biography,Comedy,Drama",Taylor Hackford
 Ironclad,Jul,25000000.0,5297411.0,-19702589.0,"Action,Adventure,Drama",Jonathan English
@@ -923,8 +874,6 @@ Piranha 3D,Aug,24000000.0,83660160.0,59660160.0,"Comedy,Horror",Alexandre Aja
 Faster,Nov,24000000.0,35792945.0,11792945.0,"Action,Crime,Drama",George Tillman Jr.
 I Don't Know How She Does It,Sep,24000000.0,24474463.0,474463.0,"Comedy,Romance",Douglas McGrath
 Dhoom 3,Dec,24000000.0,11723620.0,-12276380.0,"Action,Thriller",Vijay Krishna Acharya
-Beyond the Sea,Dec,24000000.0,8292914.0,-15707086.0,Documentary,Veronika Kaserer
-Flood,Dec,24000000.0,4084232.0,-19915768.0,Documentary,Ohad Milstein
 Green Book,Nov,23000000.0,322034439.0,299034439.0,"Biography,Comedy,Drama",Peter Farrelly
 The Wedding Ringer,Jan,23000000.0,80171596.0,57171596.0,Comedy,Jeremy Garelick
 Final Destination,Mar,23000000.0,112036870.0,89036870.0,Documentary,Ricardas Marcinkus
@@ -934,7 +883,7 @@ Her,Jan,23000000.0,48163815.0,25163815.0,"Drama,Romance,Sci-Fi",Spike Jonze
 Haywire,Jan,23000000.0,36374700.0,13374700.0,"Action,Drama,Thriller",Steven Soderbergh
 Anywhere But Here,Nov,23000000.0,18653615.0,-4346385.0,"Drama,Thriller",Larry Rosen
 Eddie the Eagle,Feb,23000000.0,45060480.0,22060480.0,"Biography,Comedy,Drama",Dexter Fletcher
-The Crew,Aug,23000000.0,13019253.0,-9980747.0,Comedy,Kate Kaminski
+The Crew,Aug,23000000.0,13019253.0,-9980747.0,"Crime,Drama,Thriller",Julien Leclercq
 Redemption,Jun,23000000.0,13593473.0,-9406527.0,"Adventure,Drama,Romance",Joseph P. Stachura
 Rogue,Apr,23000000.0,4673377.0,-18326623.0,"Action,Romance,Thriller",Puri Jagannadh
 Nocturnal Animals,Nov,22500000.0,32398681.0,9898681.0,"Drama,Thriller",Tom Ford
@@ -946,7 +895,6 @@ Diary of a Wimpy Kid: Dog Days,Aug,22000000.0,77229695.0,55229695.0,"Comedy,Fami
 Derailed,Nov,22000000.0,57520063.0,35520063.0,"Action,Crime",Seong-Tae Lee
 Delivery Man,Nov,22000000.0,70536870.0,48536870.0,"Comedy,Drama",Ken Scott
 "Hail, Caesar!",Feb,22000000.0,64160680.0,42160680.0,"Comedy,Drama,Music",Ethan Coen
-Traitor,Aug,22000000.0,27882226.0,5882226.0,"Action,Drama,Romance",Janchivdorj Sengedorj
 Diary of a Wimpy Kid: The Long Haul,May,22000000.0,35609577.0,13609577.0,"Comedy,Family",David Bowers
 Homefront,Nov,22000000.0,51695362.0,29695362.0,"Action,Thriller",Gary Fleder
 The Glass House,Sep,22000000.0,22861785.0,861785.0,"Drama,Thriller",Steven Summers
@@ -977,9 +925,8 @@ The Conjuring,Jul,20000000.0,318000141.0,298000141.0,"Horror,Mystery,Thriller",J
 Wonder,Nov,20000000.0,304604712.0,284604712.0,"Drama,Family",Stephen Chbosky
 Jackass 3D,Oct,20000000.0,171685793.0,151685793.0,"Action,Comedy,Documentary",Jeff Tremaine
 Bad Moms,Jul,20000000.0,180998716.0,160998716.0,Comedy,Jon Lucas
+Glass,Jan,20000000.0,245303505.0,225303505.0,"Drama,Mystery,Thriller",James Powell
 The Descendants,Nov,20000000.0,175507800.0,155507800.0,"Comedy,Drama",Alexander Payne
-School of Rock,Oct,20000000.0,131944672.0,111944672.0,Music,John Batemen
-Mortal Kombat,Aug,20000000.0,122133227.0,102133227.0,"Action,Adventure,Fantasy",Simon McQuoid
 Obsessed,Apr,20000000.0,73964713.0,53964713.0,Drama,Dae-woo Kim
 The Last Song,Mar,20000000.0,92678948.0,72678948.0,"Drama,Music,Romance",Julie Anne Robinson
 Why Did I Get Married Too?,Apr,20000000.0,60831067.0,40831067.0,"Comedy,Drama,Romance",Tyler Perry
@@ -989,7 +936,7 @@ What Men Want,Feb,20000000.0,69911903.0,49911903.0,"Comedy,Fantasy,Romance",Adam
 Barbershop: The Next Cut,Apr,20000000.0,54404202.0,34404202.0,"Comedy,Drama",Malcolm D. Lee
 A Simple Favor,Sep,20000000.0,97628717.0,77628717.0,"Comedy,Crime,Drama",Paul Feig
 Acrimony,Mar,20000000.0,46627836.0,26627836.0,"Drama,Romance,Thriller",Tyler Perry
-Max,Jun,20000000.0,43658157.0,23658157.0,"Biography,Comedy,Documentary",Luca Scivoletto
+Max,Jun,20000000.0,43658157.0,23658157.0,Comedy,Stéphanie Murat
 Orphan,Jul,20000000.0,78769428.0,58769428.0,Drama,Arnaud des Pallières
 The Star,Nov,20000000.0,62758010.0,42758010.0,"Adventure,Animation,Comedy",Timothy Reckart
 Risen,Feb,20000000.0,46255763.0,26255763.0,"Biography,Drama",Neil Jones
@@ -1000,15 +947,12 @@ Texas Chainsaw 3D,Jan,20000000.0,47666013.0,27666013.0,"Horror,Thriller",John Lu
 Copycat,Oct,20000000.0,32051917.0,12051917.0,Comedy,Todd Rodgers
 She's Out of My League,Mar,20000000.0,48680977.0,28680977.0,"Comedy,Romance",Jim Field Smith
 The Debt,Aug,20000000.0,46604054.0,26604054.0,"Drama,Thriller",John Madden
-Wild Things,Mar,20000000.0,55576699.0,35576699.0,"Documentary,Western",Daniel Hinerfeld
-Eye for an Eye,Jan,20000000.0,26792700.0,6792700.0,Drama,Paco Plaza
 The World's End,Aug,20000000.0,47508505.0,27508505.0,"Action,Comedy,Sci-Fi",Edgar Wright
 You Again,Sep,20000000.0,32838945.0,12838945.0,"Comedy,Family,Romance",Andy Fickman
 On the Basis of Sex,Dec,20000000.0,38073377.0,18073377.0,"Biography,Drama",Mimi Leder
 Endless Love,Feb,20000000.0,34718173.0,14718173.0,"Drama,Romance",Shana Feste
 The Covenant,Sep,20000000.0,38164784.0,18164784.0,Musical,Robert Muren
 Monte Carlo,Jul,20000000.0,39686769.0,19686769.0,"Adventure,Comedy,Family",Thomas Bezucha
-Stay Alive,Mar,20000000.0,23187506.0,3187506.0,Documentary,Paul Emami
 Rough Night,Jun,20000000.0,46844357.0,26844357.0,"Comedy,Crime,Thriller",Lucia Aniello
 Psycho,Dec,20000000.0,37226218.0,17226218.0,Thriller,Kishore Bhargav
 Shorts,Aug,20000000.0,29870801.0,9870801.0,Drama,Anirban Roy
@@ -1019,8 +963,6 @@ Paparazzi,Sep,20000000.0,16612072.0,-3387928.0,"Action,Drama,Romance",Saad Henda
 Lockout,Apr,20000000.0,33943049.0,13943049.0,"Action,Sci-Fi,Thriller",James Mather
 What's Your Number?,Sep,20000000.0,30163785.0,10163785.0,"Comedy,Romance",Mark Mylod
 Burnt,Oct,20000000.0,36773510.0,16773510.0,"Comedy,Drama",John Wells
-Envy,Apr,20000000.0,14566246.0,-5433754.0,Drama,Taylor Hayden
-Ghost Town,Sep,20000000.0,29958228.0,9958228.0,"Documentary,History",Emily Fraser
 Triple 9,Feb,20000000.0,25943792.0,5943792.0,"Crime,Thriller",John Hillcoat
 The Light Between Oceans,Sep,20000000.0,22281732.0,2281732.0,"Drama,Romance",Derek Cianfrance
 12 Rounds,Mar,20000000.0,17306648.0,-2693352.0,"Action,Drama,Romance",Gabriel Soriano
@@ -1031,12 +973,10 @@ Battle of the Year,Sep,20000000.0,16723377.0,-3276623.0,"Drama,Music",Benson Lee
 The Man,Sep,20000000.0,10393696.0,-9606304.0,Drama,Charlotte Sieling
 Inherent Vice,Dec,20000000.0,14772346.0,-5227654.0,"Comedy,Crime,Drama",Paul Thomas Anderson
 Machete Kills,Oct,20000000.0,18273009.0,-1726991.0,"Action,Crime,Sci-Fi",Robert Rodriguez
-Proof,Sep,20000000.0,8284331.0,-11715669.0,"Comedy,Mystery,Sci-Fi",Carl Walins
 Little Boy,Apr,20000000.0,17769299.0,-2230701.0,"Drama,History,War",Alejandro Monteverde
 Chasing Mavericks,Oct,20000000.0,8300821.0,-11699179.0,"Biography,Drama,Sport",Curtis Hanson
 A Most Violent Year,Dec,20000000.0,8846875.0,-11153125.0,"Crime,Drama,Thriller",J.C. Chandor
 A Dangerous Method,Nov,20000000.0,14807531.0,-5192469.0,"Biography,Drama,Romance",David Cronenberg
-Birth,Oct,20000000.0,14603001.0,-5396999.0,"Adventure,Documentary",Mauricio Hernandez
 Hands of Stone,Aug,20000000.0,5031975.0,-14968025.0,"Action,Biography,Drama",Jonathan Jakubowicz
 The Cold Light of Day,Sep,20000000.0,25361206.0,5361206.0,"Action,Thriller",Mabrouk El Mechri
 Suspiria,Oct,20000000.0,7034615.0,-12965385.0,"Fantasy,Horror,Mystery",Luca Guadagnino
@@ -1057,7 +997,6 @@ The Frozen Ground,Aug,19200000.0,5617460.0,-13582540.0,"Crime,Drama,Mystery",Sco
 The Devil's Double,Jul,19100000.0,5965646.0,-13134354.0,"Biography,Drama,Thriller",Lee Tamahori
 Bad Teacher,Jun,19000000.0,215448997.0,196448997.0,"Comedy,Romance",Jake Kasdan
 Sausage Party,Aug,19000000.0,141344255.0,122344255.0,"Adventure,Animation,Comedy",Greg Tiernan
-Sea of Love,Sep,19000000.0,58571513.0,39571513.0,"Drama,Mystery,Romance",Alyssa Schroeter
 The Crazies,Feb,19000000.0,56445534.0,37445534.0,"Horror,Thriller",Breck Eisner
 The Switch,Aug,19000000.0,49858465.0,30858465.0,"Comedy,Drama,Romance",Josh Gordon
 Leap Year,Jan,19000000.0,32618920.0,13618920.0,"Comedy,Romance",Anand Tucker
@@ -1069,7 +1008,7 @@ Action Point,Jun,19000000.0,5103675.0,-13896325.0,Comedy,Tim Kirkby
 Left Behind,Feb,18500000.0,4221341.0,-14278659.0,"Horror,Mystery,Thriller",Maksim Litvinov
 Left Behind,Oct,16000000.0,20769209.0,4769209.0,"Horror,Mystery,Thriller",Maksim Litvinov
 Neighbors,May,18000000.0,270944428.0,252944428.0,Comedy,Nicholas Stoller
-The Mask,Jul,18000000.0,351620129.0,333620129.0,"Documentary,Drama,Family",Jesse Rose
+The Mask,Jul,18000000.0,351620129.0,333620129.0,"Crime,Fantasy,Thriller",Jason Gerbay
 Big,Jun,18000000.0,151668774.0,133668774.0,Documentary,Sean Sevestre
 My Big Fat Greek Wedding 2,Mar,18000000.0,92096558.0,74096558.0,"Comedy,Romance",Kirk Jones
 The Perfect Guy,Sep,18000000.0,60278166.0,42278166.0,"Crime,Drama,Horror",David M. Rosenthal
@@ -1080,7 +1019,7 @@ Birdman or (The Unexpected Virtue of Ignorance),Oct,18000000.0,103215094.0,85215
 Blue Jasmine,Jul,18000000.0,102912961.0,84912961.0,Drama,Woody Allen
 Honey,Dec,18000000.0,62646763.0,44646763.0,Drama,Semih Kaplanoglu
 Ricki and the Flash,Aug,18000000.0,41166033.0,23166033.0,"Comedy,Drama,Music",Jonathan Demme
-Love Happens,Sep,18000000.0,36133014.0,18133014.0,Drama,Aj Cross
+Glory,Dec,18000000.0,26593580.0,8593580.0,Drama,Petar Valchanov
 Fame,Sep,18000000.0,80227619.0,62227619.0,Documentary,Giacomo Abbruzzese
 The Circle,Apr,18000000.0,40651864.0,22651864.0,"Drama,Fantasy,Horror",Levan Akin
 127 Hours,Nov,18000000.0,60217171.0,42217171.0,"Adventure,Biography,Drama",Danny Boyle
@@ -1098,15 +1037,12 @@ Midnight Special,Mar,18000000.0,7680250.0,-10319750.0,"Action,Drama,Mystery",Jef
 Miss Sloane,Nov,18000000.0,7719630.0,-10280370.0,"Drama,Thriller",John Madden
 Metallica Through the Never,Sep,18000000.0,9082906.0,-8917094.0,Music,Nimród Antal
 Phantom,Mar,18000000.0,1199510.0,-16800490.0,"Drama,History,Thriller",Todd Robinson
-Renaissance,Sep,18000000.0,2401413.0,-15598587.0,"Drama,Romance,Sci-Fi",Matthew Campagna
 I Am Wrath,Apr,18000000.0,309608.0,-17690392.0,"Action,Crime,Drama",Chuck Russell
 Red Lights,Jul,17700000.0,14518884.0,-3181116.0,"Drama,Fantasy,Horror",Rodrigo Cortés
-Hoodwinked,Jan,17500000.0,109843390.0,92343390.0,Documentary,Janks Morton
 Black Nativity,Nov,17500000.0,7285135.0,-10214865.0,"Drama,Family,Music",Kasi Lemmons
 City of Ghosts,Apr,17500000.0,325491.0,-17174509.0,"Documentary,War",Matthew Heineman
 A Quiet Place,Apr,17000000.0,334522294.0,317522294.0,Documentary,Sjoerd Oostrik
 Aliens,Jul,17000000.0,183316455.0,166316455.0,"Comedy,Mystery,Sci-Fi",Hangyu Kim
-My Fair Lady,Oct,17000000.0,72071636.0,55071636.0,Musical,Razvan Dinca
 The Best Man Holiday,Nov,17000000.0,72835710.0,55835710.0,"Comedy,Drama",Malcolm D. Lee
 Pitch Perfect,Sep,17000000.0,116044347.0,99044347.0,"Comedy,Music,Romance",Jason Moore
 Evil Dead,Apr,17000000.0,97778356.0,80778356.0,"Fantasy,Horror,Thriller",Fede Alvarez
@@ -1117,24 +1053,19 @@ Lottery Ticket,Aug,17000000.0,24719879.0,7719879.0,Comedy,Erik White
 The Apparition,Aug,17000000.0,10637281.0,-6362719.0,"Horror,Thriller",Todd Lincoln
 Genius,Jun,17000000.0,7265283.0,-9734717.0,"Biography,Drama",Michael Grandage
 Escobar: Paradise Lost,Jun,17000000.0,3917679.0,-13082321.0,"Crime,Drama,History",Andrea Di Stefano
-My Girl,Nov,16500000.0,58011485.0,41511485.0,Drama,Dean Bivins
 The Illusionist,Aug,16500000.0,83792062.0,67292062.0,"Animation,Drama",Sylvain Chomet
 Road Trip,May,16000000.0,119739110.0,103739110.0,Horror,The Lowpriest
 Moonrise Kingdom,May,16000000.0,68848446.0,52848446.0,"Adventure,Comedy,Drama",Wes Anderson
 The Artist,Nov,16000000.0,128256712.0,112256712.0,"Comedy,Drama,Romance",Michel Hazanavicius
 The Roommate,Feb,16000000.0,52545707.0,36545707.0,"Drama,Thriller",Christian E. Christiansen
-Baby Boy,Jun,16000000.0,28734552.0,12734552.0,Drama,Tissy Nnachi
 Remember Me,Mar,16000000.0,56506120.0,40506120.0,"Drama,Romance",Allen Coulter
 Bleed for This,Nov,16000000.0,6603926.0,-9396074.0,"Biography,Drama,Sport",Ben Younger
 The Homesman,Nov,16000000.0,8217571.0,-7782429.0,"Drama,Western",Tommy Lee Jones
 The Immigrant,May,16000000.0,7585011.0,-8414989.0,"Drama,Romance",James Gray
 Steel,Aug,16000000.0,1686429.0,-14313571.0,Drama,Stefano Mordini
-Good,Dec,16000000.0,31631.0,-15968369.0,Documentary,Patrick-Mario Bernard
 Vamps,Nov,16000000.0,94812.0,-15905188.0,"Comedy,Horror,Romance",Amy Heckerling
 Zulu,Dec,16000000.0,1844228.0,-14155772.0,"Crime,Drama,Thriller",Jérôme Salle
 Second Act,Dec,15700000.0,63288854.0,47588854.0,"Comedy,Drama,Romance",Peter Segal
-Madison,Apr,15500000.0,517262.0,-14982738.0,"Adventure,Drama,Family",Kim Strobl
-Twins,Dec,15000000.0,216600000.0,201600000.0,"Adventure,Biography,Comedy",Haakon Sand
 Annabelle: Creation,Aug,15000000.0,305384865.0,290384865.0,"Horror,Mystery,Thriller",David F. Sandberg
 The Color Purple,Dec,15000000.0,93589701.0,78589701.0,"Action,Drama",Ebrahim Hatamikia
 The Imitation Game,Nov,15000000.0,227740463.0,212740463.0,"Biography,Drama,Thriller",Morten Tyldum
@@ -1145,7 +1076,7 @@ Halloween,Oct,10000000.0,254900667.0,244900667.0,"Horror,Thriller",David Gordon 
 Halloween,Oct,325000.0,70000000.0,69675000.0,"Horror,Thriller",David Gordon Green
 The Queen,Sep,15000000.0,128885873.0,113885873.0,"Action,Drama,War",Mohammad Ali Bashe Ahangar
 The Woman in Black,Feb,15000000.0,128955898.0,113955898.0,"Drama,Fantasy,Horror",James Watkins
-The Deer Hunter,Jan,15000000.0,50009253.0,35009253.0,Documentary,David Tietmeyer
+Little Women,Dec,15000000.0,50003303.0,35003303.0,"Drama,Family",Clare Niederpruem
 BlacKkKlansman,Aug,15000000.0,93017335.0,78017335.0,"Biography,Crime,Drama",Spike Lee
 Snitch,Feb,15000000.0,57907734.0,42907734.0,"Action,Drama,Thriller",Ric Roman Waugh
 Krampus,Dec,15000000.0,61788393.0,46788393.0,"Comedy,Fantasy,Horror",Michael Dougherty
@@ -1155,26 +1086,21 @@ The Theory of Everything,Nov,15000000.0,123327692.0,108327692.0,"Biography,Drama
 Drive,Sep,15000000.0,81357930.0,66357930.0,"Crime,Drama",Nicolas Winding Refn
 Hawaii,Oct,15000000.0,34562222.0,19562222.0,"Drama,Romance",Marco Berger
 The Favourite,Nov,15000000.0,94113929.0,79113929.0,"Biography,Drama,History",Yorgos Lanthimos
-Where the Heart Is,Apr,15000000.0,40862054.0,25862054.0,"Biography,Documentary,Family",Rohan Sabharwal
 When the Game Stands Tall,Aug,15000000.0,30138912.0,15138912.0,"Drama,Family,Sport",Thomas Carter
 Home Again,Sep,15000000.0,37336874.0,22336874.0,Drama,Sudz Sutherland
 Ramona and Beezus,Jul,15000000.0,27469621.0,12469621.0,"Adventure,Comedy,Family",Elizabeth Allen Rosenbaum
 The November Man,Aug,15000000.0,34820335.0,19820335.0,"Action,Crime,Thriller",Roger Donaldson
-Nowhere to Run,Jan,15000000.0,52189039.0,37189039.0,Thriller,Mengyuan Wang
 The Place Beyond the Pines,Mar,15000000.0,47011449.0,32011449.0,"Crime,Drama,Thriller",Derek Cianfrance
 Keanu,Apr,15000000.0,20688141.0,5688141.0,"Action,Comedy,Crime",Peter Atencio
 Country Strong,Dec,15000000.0,20601987.0,5601987.0,"Drama,Music",Shana Feste
 A Most Wanted Man,Jul,15000000.0,36068890.0,21068890.0,"Crime,Drama,Thriller",Anton Corbijn
-Firestarter,May,15000000.0,15136870.0,136870.0,Documentary,Jamie Bailey
 Miss Bala,Feb,15000000.0,15362298.0,362298.0,"Crime,Drama,Thriller",Gerardo Naranjo
 Killing Them Softly,Nov,15000000.0,39238443.0,24238443.0,"Crime,Thriller",Andrew Dominik
 One Day,Aug,15000000.0,59168692.0,44168692.0,"Drama,Romance",Lone Scherfig
 The Founder,Jan,15000000.0,24403192.0,9403192.0,"Comedy,Sci-Fi",Eric Dean Hordes
-Brainstorm,Sep,15000000.0,8921050.0,-6078950.0,Thriller,Ed Nouwen
+Dark Blue,Feb,15000000.0,12262065.0,-2737935.0,"Crime,Drama",David C. Kirtland
 Queen of Katwe,Sep,15000000.0,10055481.0,-4944519.0,"Biography,Drama,Sport",Mira Nair
-Whatever it Takes,Mar,15000000.0,8735529.0,-6264471.0,Drama,Alex Gonzales
 The Importance of Being Earnest,May,15000000.0,8378141.0,-6621859.0,Comedy,Adrian Noble
-The Love Letter,May,15000000.0,9010980.0,-5989020.0,"Adventure,Documentary",Mikey Schaefer
 Promised Land,Jan,15000000.0,12394562.0,-2605438.0,Drama,Gus Van Sant
 Scouts Guide to the Zombie Apocalypse,Oct,15000000.0,15554855.0,554855.0,"Action,Comedy,Horror",Christopher Landon
 You Will Meet a Tall Dark Stranger,Sep,15000000.0,34247816.0,19247816.0,"Comedy,Drama,Romance",Woody Allen
@@ -1182,7 +1108,6 @@ Rock the Kasbah,Oct,15000000.0,3386153.0,-11613847.0,"Comedy,Music,War",Barry Le
 Never Let Me Go,Sep,15000000.0,11173718.0,-3826282.0,"Drama,Romance,Sci-Fi",Mark Romanek
 The Disappointments Room,Sep,15000000.0,3503761.0,-11496239.0,"Drama,Horror,Thriller",D.J. Caruso
 The Comedian,Feb,15000000.0,1658706.0,-13341294.0,"Drama,Romance",Tom Shkolnik
-Metropolis,Jan,15000000.0,1405032.0,-13594968.0,Documentary,Eylem Sen
 The Reluctant Fundamentalist,Apr,15000000.0,528731.0,-14471269.0,"Drama,Thriller",Mira Nair
 The Return,Feb,15000000.0,5953886.0,-9046114.0,Drama,Hernan Jimenez
 Centurion,Aug,15000000.0,7885048.0,-7114952.0,"Action,Adventure,Drama",Neil Marshall
@@ -1194,9 +1119,9 @@ Bathory,Dec,15000000.0,3436763.0,-11563237.0,Drama,Ernesto Aguilar
 In Dubious Battle,Feb,15000000.0,214182.0,-14785818.0,Drama,James Franco
 Broken Horses,Sep,15000000.0,3471.0,-14996529.0,"Action,Crime,Drama",Vidhu Vinod Chopra
 Magic Mike XXL,Jul,14500000.0,123660597.0,109160597.0,"Comedy,Drama,Music",Gregory Jacobs
+Freedom,Jun,14500000.0,872757.0,-13627243.0,Documentary,Rebecca Harrell Tickell
 Unforgiven,Aug,14400000.0,159157447.0,144757447.0,"Action,Crime,Drama",Sang-il Lee
 The Possession,Aug,14000000.0,82925064.0,68925064.0,"Horror,Mystery,Thriller",Ole Bornedal
-Urban Legend,Sep,14000000.0,72571864.0,58571864.0,Horror,Alix Lindbergh
 White Fang,Jan,14000000.0,34729091.0,20729091.0,"Adventure,Animation",Alexandre Espigares
 Superstar,Oct,14000000.0,30628981.0,16628981.0,Drama,Xavier Giannoli
 The Iron Lady,Jan,14000000.0,115592104.0,101592104.0,"Biography,Drama",Phyllida Lloyd
@@ -1205,10 +1130,10 @@ Hot Tub Time Machine 2,Feb,14000000.0,12826644.0,-1173356.0,"Comedy,Mystery,Sci-
 Bobby,Nov,14000000.0,20597806.0,6597806.0,"Biography,Documentary,Sport",Ron Scalpello
 Head Over Heels,Feb,14000000.0,10397365.0,-3602635.0,Comedy,Roberto Santucci
 Fun Size,Oct,14000000.0,11166615.0,-2833385.0,"Adventure,Comedy",Josh Schwartz
+Lost and Found,Apr,14000000.0,6552255.0,-7447745.0,"Animation,Drama",Show Yanagisawa
 Suffragette,Oct,14000000.0,34044909.0,20044909.0,"Biography,Drama,History",Sarah Gavron
 Mr. Turner,Dec,14000000.0,25187026.0,11187026.0,"Biography,Drama,History",Mike Leigh
 Amen,Jan,14000000.0,274299.0,-13725701.0,Drama,Ki-duk Kim
-The Lucky Ones,Sep,14000000.0,266967.0,-13733033.0,"Drama,Thriller",Stephen Petrillo
 Margaret,Sep,14000000.0,623292.0,-13376708.0,Drama,Kenneth Lonergan
 Reign of Assassins,Nov,14000000.0,11354230.0,-2645770.0,"Action,Adventure",John Woo
 Seven Psychopaths,Oct,13500000.0,33035736.0,19535736.0,"Comedy,Crime",Martin McDonagh
@@ -1237,7 +1162,6 @@ Chloe,Mar,13000000.0,11831131.0,-1168869.0,"Drama,Music,Romance",Princeton Holt
 Youth,Dec,13000000.0,24001573.0,11001573.0,"Drama,Family",Justine Malle
 The Vatican Tapes,Jul,13000000.0,14929184.0,1929184.0,"Horror,Thriller",Mark Neveldine
 Attack the Block,Jul,13000000.0,6459183.0,-6540817.0,"Action,Comedy,Sci-Fi",Joe Cornish
-The Claim,Dec,13000000.0,1375635.0,-11624365.0,Drama,Moshe Zeevi
 The Killer Inside Me,Jun,13000000.0,3617277.0,-9382723.0,"Crime,Drama,Horror",Michael Winterbottom
 The Call,Mar,12800000.0,69821476.0,57021476.0,"Crime,Drama,Horror",Brad Anderson
 The Drop,Sep,12600000.0,19054534.0,6454534.0,"Crime,Drama",Michaël R. Roskam
@@ -1255,6 +1179,7 @@ Step Up,Aug,12000000.0,110989157.0,98989157.0,"Biography,Documentary,Drama",Noub
 Chronicle,Feb,12000000.0,123681790.0,111681790.0,"Drama,Sci-Fi,Thriller",Josh Trank
 Project X,Mar,12000000.0,103028188.0,91028188.0,Comedy,Nima Nourizadeh
 "Three Billboards Outside Ebbing, Missouri",Nov,12000000.0,160191915.0,148191915.0,"Crime,Drama",Martin McDonagh
+Lion,Nov,12000000.0,149570720.0,137570720.0,"Biography,Drama",Garth Davis
 Overboard,May,12000000.0,85369830.0,73369830.0,"Comedy,Romance",Rob Greenberg
 Philomena,Nov,12000000.0,98963392.0,86963392.0,"Biography,Comedy,Drama",Stephen Frears
 Crossroads,Feb,12000000.0,57000000.0,45000000.0,Drama,Masatoshi Kurakata
@@ -1277,14 +1202,12 @@ For Greater Glory: The True Story of Cristiada,Jun,12000000.0,10026255.0,-197374
 Ravenous,Mar,12000000.0,2062406.0,-9937594.0,"Drama,Horror,Sci-Fi",Robin Aubert
 Stoker,Mar,12000000.0,12034913.0,34913.0,"Drama,Thriller",Chan-wook Park
 Kill the Irishman,Mar,12000000.0,1188194.0,-10811806.0,"Biography,Crime,Drama",Jonathan Hensleigh
-Duma,Sep,12000000.0,994790.0,-11005210.0,"Biography,Crime,Documentary",Abeer Zeibak Haddad
 Darling Companion,Apr,12000000.0,1200346.0,-10799654.0,"Comedy,Drama,Romance",Lawrence Kasdan
 Brother,Jul,12000000.0,450594.0,-11549406.0,"Drama,Family,Sport",Marcel Rasquin
-Trade,Sep,12000000.0,1513388.0,-10486612.0,Drama,Trae Briers
-Trash,Oct,12000000.0,6553186.0,-5446814.0,Thriller,Bettie Wilde
+Trash,Oct,12000000.0,6553186.0,-5446814.0,Action,Alejo Rébora
 5 Days of War,Aug,12000000.0,87793.0,-11912207.0,"Action,Drama,War",Renny Harlin
 10 Days in a Madhouse,Nov,12000000.0,14616.0,-11985384.0,Drama,Timothy Hines
-Triangle,Feb,12000000.0,1594955.0,-10405045.0,"Family,Fantasy,Music",Yuka Matsushima
+Triangle,Feb,12000000.0,1594955.0,-10405045.0,Drama,Theodros Teshome
 The Dressmaker,Sep,11900000.0,24041617.0,12141617.0,"Comedy,Drama",Jocelyn Moorhouse
 Carol,Nov,11800000.0,42843521.0,31043521.0,"Drama,Romance",Todd Haynes
 Dirty Grandpa,Jan,11500000.0,105078449.0,93578449.0,Comedy,Dan Mazer
@@ -1298,15 +1221,13 @@ Frailty,Apr,11000000.0,19947280.0,8947280.0,Drama,Angel Manuel Soto
 Peeples,May,11000000.0,9307166.0,-1692834.0,"Comedy,Romance",Tina Gordon
 Sultan,Jul,11000000.0,72989781.0,61989781.0,"Drama,Romance",Sengül Halat
 The Gospel of John,Sep,11000000.0,4234355.0,-6765645.0,Drama,David Batty
-Othello,Dec,11000000.0,2844379.0,-8155621.0,Thriller,Mikael Kreuzriegler
 Brighton Rock,Aug,11000000.0,229653.0,-10770347.0,"Crime,Drama,Thriller",Rowan Joffe
 LOL,May,11000000.0,10431506.0,-568494.0,"Comedy,Drama,Romance",Lisa Azuelos
 An Ideal Husband,Jun,10700000.0,31341183.0,20641183.0,Comedy,Jonathan Church
 Darkness,Dec,10600000.0,34409206.0,23809206.0,Drama,Jug Radivojevic
 The Last Days on Mars,Dec,10600000.0,261364.0,-10338636.0,"Adventure,Horror,Sci-Fi",Ruairi Robinson
-Lovesick,Feb,10100000.0,10143618.0,43618.0,"Comedy,Drama",Johann Buchholz
+Lovesick,Feb,10100000.0,10143618.0,43618.0,"Comedy,Fantasy,Romance",Rocky Jo
 Housefull,Apr,10100000.0,18726300.0,8626300.0,Comedy,Sajid Khan
-Stripes,Jun,10000000.0,85300000.0,75300000.0,Drama,Jacalyn Evone
 The Purge: Election Year,Jul,10000000.0,118514727.0,108514727.0,"Action,Horror,Sci-Fi",James DeMonaco
 Book Club,May,10000000.0,91113683.0,81113683.0,Documentary,Hope Hartman
 Insidious: The Last Key,Jan,10000000.0,167885588.0,157885588.0,"Horror,Mystery,Thriller",Adam Robitel
@@ -1324,7 +1245,6 @@ Slender Man,Aug,10000000.0,51723644.0,41723644.0,"Horror,Mystery,Thriller",Sylva
 When the Bough Breaks,Sep,10000000.0,30768449.0,20768449.0,"Crime,Drama,Horror",Jon Cassar
 Sinister 2,Aug,10000000.0,54104225.0,44104225.0,"Horror,Mystery,Thriller",Ciarán Foy
 The Forest,Jan,10000000.0,40749230.0,30749230.0,"Horror,Thriller",Shan Serafin
-The Outsiders,Mar,10000000.0,25697647.0,15697647.0,Drama,Madhav Mathur
 Sparkle,Aug,10000000.0,24660323.0,14660323.0,"Drama,Music",Salim Akil
 Kevin Hart: What Now?,Oct,10000000.0,23591043.0,13591043.0,"Comedy,Documentary",Leslie Small
 Mud,Apr,10000000.0,31556959.0,21556959.0,Drama,Jeff Nichols
@@ -1352,10 +1272,7 @@ Gotti,Jun,10000000.0,6089100.0,-3910900.0,"Biography,Crime,Drama",Kevin Connolly
 Denial,Sep,10000000.0,9263940.0,-736060.0,"Biography,Drama",Mick Jackson
 The Man Who Knew Infinity,Apr,10000000.0,12382122.0,2382122.0,"Biography,Drama",Matt Brown
 Max Steel,Oct,10000000.0,4563080.0,-5436920.0,"Action,Adventure,Family",Stewart Hendler
-Crash,Oct,10000000.0,3357324.0,-6642676.0,Thriller,Sebastian Klinger
-Crash,May,7303082.0,101173038.0,93869956.0,Thriller,Sebastian Klinger
 Romeo Is Bleeding,Feb,10000000.0,3275585.0,-6724415.0,"Biography,Documentary,Drama",Jason Zeldes
-The House of Mirth,Dec,10000000.0,5149131.0,-4850869.0,Music,David Sudmalis
 The Iceman,May,10000000.0,3623609.0,-6376391.0,"Biography,Crime,Drama",Ariel Vromen
 Testament of Youth,Jun,10000000.0,6646669.0,-3353331.0,"Biography,Drama,History",James Kent
 Free Fire,Apr,10000000.0,3793739.0,-6206261.0,"Action,Comedy,Crime",Ben Wheatley
@@ -1384,24 +1301,20 @@ Plastic,Sep,10000000.0,575371.0,-9424629.0,Horror,Jose Carlos Gomez
 Jungle Shuffle,Mar,10000000.0,360898.0,-9639102.0,"Adventure,Animation",Mauricio De la Orta
 Gunless,Apr,9900000.0,458054.0,-9441946.0,"Action,Comedy,Drama",William Phillips
 Amour,Dec,9700000.0,36787044.0,27087044.0,"Drama,Romance",Michael Haneke
-You Only Live Twice,Jun,9500000.0,111600000.0,102100000.0,Documentary,Tony Clomax
 Dangal,Dec,9500000.0,294654618.0,285154618.0,"Action,Biography,Drama",Nitesh Tiwari
 The Runaways,Mar,9500000.0,5278632.0,-4221368.0,"Biography,Drama,Music",Floria Sigismondi
 Melancholia,Nov,9400000.0,21817298.0,12417298.0,"Drama,Sci-Fi",Lars von Trier
-Heavy Metal,Aug,9300000.0,19571091.0,10271091.0,"Documentary,Family",Huaqing Jiang
 Jab Tak Hai Jaan,Nov,9200000.0,5806666.0,-3393334.0,"Drama,Romance",Yash Chopra
 Kites,May,9200000.0,17155193.0,7955193.0,"Action,Drama,Romance",Anurag Basu
 Red Dog,Dec,9100000.0,20927794.0,11827794.0,"Biography,Comedy,Drama",Kriv Stenders
 The Purge: Anarchy,Jul,9000000.0,111534881.0,102534881.0,"Action,Horror,Sci-Fi",James DeMonaco
 The Strangers,May,9000000.0,83051676.0,74051676.0,"Action,Drama,Horror",Lawrence Fajardo
 Ouija: Origin of Evil,Oct,9000000.0,81831866.0,72831866.0,"Drama,Horror,Mystery",Mike Flanagan
-Child's Play,Nov,9000000.0,44196684.0,35196684.0,Horror,Lars Klevberg
 Happy Death Day 2U,Feb,9000000.0,64179495.0,55179495.0,"Drama,Horror,Mystery",Christopher Landon
 The Contender,Oct,9000000.0,17804273.0,8804273.0,"Documentary,Drama,Sport",Joshua Clay Baldwin
 The Edge of Seventeen,Nov,9000000.0,19096003.0,10096003.0,"Comedy,Drama",Kelly Fremon Craig
 Jackie,Dec,9000000.0,36588512.0,27588512.0,"Biography,Drama,History",Pablo Larraín
 Glee: The 3D Concert Movie,Aug,9000000.0,17462398.0,8462398.0,"Documentary,Music",Jennifer Arnold
-Henry V,Nov,9000000.0,10176701.0,1176701.0,"Adventure,Biography,Drama",Stephen Armourae
 Loving,Nov,9000000.0,12898064.0,3898064.0,"Drama,Romance",Slawomir Fabicki
 Beautiful,Sep,9000000.0,3134509.0,-5865491.0,"Biography,Drama,Family",V.K. Prakash
 Gracie,Jun,9000000.0,3922043.0,-5077957.0,"Crime,Drama,Fantasy",Jane Alexandra Foster
@@ -1409,33 +1322,28 @@ The Sapphires,Mar,9000000.0,20395040.0,11395040.0,"Biography,Comedy,Drama",Wayne
 Greater,Aug,9000000.0,2000093.0,-6999907.0,"Biography,Family,Sport",David L. Hunt
 Destroyer,Dec,9000000.0,3681096.0,-5318904.0,"Action,Crime,Drama",Karyn Kusama
 Dheepan,May,9000000.0,7704357.0,-1295643.0,"Crime,Drama",Jacques Audiard
-All or Nothing,Oct,9000000.0,184255.0,-8815745.0,"Action,Thriller,War",Craig Anderson
+All or Nothing,Oct,9000000.0,184255.0,-8815745.0,Thriller,Dave McGlone
 Skin Trade,May,9000000.0,1242.0,-8998758.0,Documentary,Shannon Keith
 Beneath Hill 60,Jun,9000000.0,3440939.0,-5559061.0,"Drama,History,War",Jeremy Sims
 Polisse,May,8900000.0,22744132.0,13844132.0,"Crime,Drama",Maïwenn
-Awake,Nov,8600000.0,32968648.0,24368648.0,Drama,Matthew Colston
 Manchester by the Sea,Nov,8500000.0,77733867.0,69233867.0,Drama,Kenneth Lonergan
 Nightcrawler,Oct,8500000.0,50334418.0,41834418.0,"Crime,Drama,Thriller",Dan Gilroy
 Dragon Ball Super: Broly,Jan,8500000.0,122747755.0,114247755.0,"Action,Adventure,Animation",Tatsuya Nagamine
 Baggage Claim,Sep,8500000.0,22885836.0,14385836.0,Comedy,David E. Talbert
 Middle School: The Worst Years of My Life,Oct,8500000.0,23311293.0,14811293.0,"Comedy,Family",Steve Carr
-The Namesake,Mar,8500000.0,20288774.0,11788774.0,Drama,Jong Koo Choi
 The Rover,Jun,8500000.0,3180252.0,-5319748.0,"Action,Crime,Drama",David Michôd
 Posledniy bogatyr,Dec,8500000.0,30700192.0,22200192.0,"Action,Adventure,Comedy",Dmitriy Dyachenko
 A.C.O.R.N.S.: Operation Crackdown,Nov,8500000.0,1353287.0,-7146713.0,"Animation,Comedy,Family",Ross Venokur
 Yeh Jawaani Hai Deewani,May,8300000.0,50827466.0,42527466.0,"Comedy,Drama,Musical",Ayan Mukherjee
-Limbo,Jun,8300000.0,2598224.0,-5701776.0,"Drama,Thriller",Tim Dünschede
-Quo Vadis?,Feb,8250000.0,30028513.0,21778513.0,"Drama,Romance",Eduart Makri
+Limbo,Jun,8300000.0,2598224.0,-5701776.0,Drama,Maria Sødahl
 Stand by Me,Aug,8000000.0,52287414.0,44287414.0,Drama,Soo-in Bang
 The Intruder,May,8000000.0,36005871.0,28005871.0,Horror,Thanadol Nualsuth
 50/50,Sep,8000000.0,41334735.0,33334735.0,"Comedy,Drama,Romance",Jonathan Levine
 A Walk in the Woods,Sep,8000000.0,37119358.0,29119358.0,"Adventure,Biography,Comedy",Ken Kwapis
 That Awkward Moment,Jan,8000000.0,53068955.0,45068955.0,"Comedy,Romance",Tom Gormican
 Shutter,Mar,8000000.0,47782426.0,39782426.0,Thriller,Joy Mathew
-Much Ado About Nothing,May,8000000.0,22549338.0,14549338.0,Drama,Jason L. Mitchell
-The Player,Apr,8000000.0,28876702.0,20876702.0,Sci-Fi,Guillaume Bouiges
+Much Ado About Nothing,May,8000000.0,22549338.0,14549338.0,"Comedy,Drama,Romance",Brandon Arnold
 Enough Said,Sep,8000000.0,25621449.0,17621449.0,"Comedy,Drama,Romance",Nicole Holofcener
-New in Town,Jan,8000000.0,29937909.0,21937909.0,"Adventure,Comedy,Fantasy",Ke Wang
 Begin Again,Jun,8000000.0,68838736.0,60838736.0,"Drama,Family",Bill Gillane
 See No Evil,May,8000000.0,18828036.0,10828036.0,Documentary,Jos de Putter
 Prom,Apr,8000000.0,10763183.0,2763183.0,"Comedy,Drama,Family",Joe Nussbaum
@@ -1452,7 +1360,7 @@ Wild Target,Oct,8000000.0,5314194.0,-2685806.0,"Action,Comedy,Crime",Jonathan Ly
 Wuthering Heights,Oct,8000000.0,2721534.0,-5278466.0,"Drama,Romance",Andrea Arnold
 A Street Cat Named Bob,Nov,8000000.0,17382693.0,9382693.0,"Biography,Comedy,Drama",Roger Spottiswoode
 Aloft,May,8000000.0,237688.0,-7762312.0,Drama,Claudia Llosa
-Akira,Apr,8000000.0,19585.0,-7980415.0,"Action,Drama,Mystery",Taika Waititi
+Akira,Apr,8000000.0,19585.0,-7980415.0,"Drama,Romance",G. Naveen Reddy
 Swelter,Aug,8000000.0,44197.0,-7955803.0,"Action,Crime,Drama",Keith Parmer
 Driving Miss Daisy,Dec,7500000.0,106593296.0,99093296.0,"Comedy,Drama",David Esbjornson
 Albert Nobbs,Dec,7500000.0,8539003.0,1039003.0,"Drama,Romance",Rodrigo García
@@ -1466,14 +1374,13 @@ I Can Only Imagine,Mar,7000000.0,85604221.0,78604221.0,"Biography,Drama,Family",
 Five Feet Apart,Mar,7000000.0,80504421.0,73504421.0,"Drama,Romance",Justin Baldoni
 Jumping the Broom,May,7000000.0,38158601.0,31158601.0,"Comedy,Drama",Salim Akil
 Gifted,Apr,7000000.0,36964656.0,29964656.0,Documentary,Johnathan McFarlane
-Kingdom Come,Apr,7000000.0,23393939.0,16393939.0,Documentary,Rick DeYoung
 Action Jackson,Feb,7000000.0,20257000.0,13257000.0,"Action,Thriller",Prabhu Deva
 Breathless,May,7000000.0,19910002.0,12910002.0,"Comedy,Thriller",Jesse Baget
 Dope,Jun,7000000.0,18190831.0,11190831.0,"Comedy,Crime,Drama",Rick Famuyiwa
 Devil's Due,Jan,7000000.0,36146087.0,29146087.0,"Horror,Mystery,Thriller",Matt Bettinelli-Olpin
 Beyond the Lights,Nov,7000000.0,14618727.0,7618727.0,"Drama,Music,Romance",Gina Prince-Bythewood
 Cyrus,Jun,7000000.0,10062896.0,3062896.0,"Crime,Horror,Mystery",Mark Vadik
-Split Second,May,7000000.0,5430822.0,-1569178.0,Drama,Jeffery Hauser
+Split Second,May,7000000.0,5430822.0,-1569178.0,Drama,Timothy Fontaine
 Somewhere,Dec,7000000.0,17023121.0,10023121.0,"Comedy,Drama",Sofia Coppola
 We Need to Talk About Kevin,Jan,7000000.0,10765283.0,3765283.0,"Drama,Mystery,Thriller",Lynne Ramsay
 Factory Girl,Feb,7000000.0,1661464.0,-5338536.0,"Drama,Romance",Mohamed Khan
@@ -1485,7 +1392,6 @@ Hesher,May,7000000.0,382946.0,-6617054.0,"Comedy,Crime,Drama",Spencer Susser
 Gerry,Feb,7000000.0,719699.0,-6280301.0,Biography,Alain Desrochers
 Oddball,Dec,7000000.0,10237229.0,3237229.0,"Adventure,Family",Stuart McDonald
 Z Storm,Aug,7000000.0,2053330.0,-4946670.0,"Action,Crime",David Lam
-Geroy,Dec,7000000.0,1545121.0,-5454879.0,Action,Karen Oganesyan
 Twixt,Jul,7000000.0,1268346.0,-5731654.0,"Comedy,Fantasy,Horror",Francis Ford Coppola
 Criminal Activities,Nov,7000000.0,386744.0,-6613256.0,"Crime,Drama,Thriller",Jackie Earle Haley
 House at the End of the Street,Sep,6900000.0,44103982.0,37203982.0,"Drama,Horror,Thriller",Mark Tonderai
@@ -1502,7 +1408,6 @@ Tracker,Dec,6500000.0,3149.0,-6496851.0,"Action,Adventure,Drama",Ian Sharp
 Control,Oct,6400000.0,8902141.0,2502141.0,"Action,Crime,Drama",Jan Verheyen
 Ordinary People,Sep,6000000.0,52302978.0,46302978.0,Drama,Eduardo W. Roy Jr.
 Breaking In,May,6000000.0,51411620.0,45411620.0,"Action,Crime,Drama",James McTeigue
-West Side Story,Oct,6000000.0,43700000.0,37700000.0,"Crime,Drama,Musical",Steven Spielberg
 Unplanned,Mar,6000000.0,18107621.0,12107621.0,"Biography,Drama",Chuck Konzelman
 The Prodigy,Feb,6000000.0,19789712.0,13789712.0,"Horror,Thriller",Nicholas McCarthy
 The Possession of Hannah Grace,Nov,6000000.0,42785387.0,36785387.0,"Horror,Mystery,Thriller",Diederik Van Rooijen
@@ -1511,18 +1416,15 @@ The Lady in the Van,Jan,6000000.0,42320503.0,36320503.0,"Biography,Comedy,Drama"
 Bernie,Apr,6000000.0,10106975.0,4106975.0,"Biography,Comedy,Crime",Richard Linklater
 Casa de mi Padre,Mar,6000000.0,8446952.0,2446952.0,"Comedy,Western",Matt Piedmont
 The Guard,Jul,6000000.0,21197454.0,15197454.0,"Comedy,Crime,Thriller",John Michael McDonagh
-Little Voice,Dec,6000000.0,21787233.0,15787233.0,"Horror,Thriller",Chloe Mann
 Wish I Was Here,Jul,6000000.0,6591365.0,591365.0,"Comedy,Drama",Zach Braff
 Venus,Dec,6000000.0,7818479.0,1818479.0,Documentary,Lea Glob
 Veronica Mars,Mar,6000000.0,3485383.0,-2514617.0,"Crime,Drama,Mystery",Rob Thomas
-Shattered Glass,Oct,6000000.0,3456602.0,-2543398.0,Drama,Suzanne Steinberg
 Snow Flower and the Secret Fan,Jul,6000000.0,11348205.0,5348205.0,"Drama,History",Wayne Wang
 Mandy,Sep,6000000.0,1427656.0,-4572344.0,"Drama,Thriller",Adam Vermillion
 The 5th Quarter,Mar,6000000.0,408159.0,-5591841.0,"Biography,Drama,Sport",Rick Bieber
 Deadfall,Dec,6000000.0,1673635.0,-4326365.0,"Crime,Drama,Thriller",Stefan Ruzowitzky
 Julia,May,6000000.0,1365108.0,-4634892.0,"Horror,Thriller",Matthew A. Brown
 Song One,Jan,6000000.0,437089.0,-5562911.0,"Drama,Music",Kate Barker-Froyland
-Lake of Fire,Oct,6000000.0,26007.0,-5973993.0,"Drama,Family,Romance",Raj Thiruselvan
 Emma,Aug,5900000.0,37831658.0,31931658.0,Thriller,Vladimir V. Feyer
 The Train,Mar,5800000.0,6800000.0,1000000.0,Drama,Jayaraaj
 Trade of Innocents,Oct,5800000.0,15091.0,-5784909.0,"Drama,Thriller",Christopher M. Bessette
@@ -1534,7 +1436,6 @@ Wonderland,Oct,5500000.0,1060512.0,-4439488.0,"Fantasy,Horror,Sci-Fi",Brandon Sl
 Le Havre,Oct,5500000.0,13480196.0,7980196.0,"Comedy,Drama",Aki Kaurismäki
 Salvation Boulevard,Jul,5500000.0,28468.0,-5471532.0,"Action,Comedy,Drama",George Ratliff
 Miss Julie,May,5500000.0,863895.0,-4636105.0,"Drama,Romance",Mikael Berg
-Irreversible,Mar,5400000.0,8133256.0,2733256.0,Drama,Lu Yaeger
 Grabbers,Jul,5300000.0,440821.0,-4859179.0,"Comedy,Horror,Sci-Fi",Jon Wright
 Wilson,Aug,5200000.0,2000000.0,-3200000.0,"Comedy,Drama",Craig Johnson
 Dum Maaro Dum,Apr,5200000.0,11633427.0,6433427.0,"Action,Crime,Drama",Rohan Sippy
@@ -1553,20 +1454,19 @@ The Lazarus Effect,Feb,5000000.0,38359310.0,33359310.0,"Horror,Mystery,Sci-Fi",D
 Our Idiot Brother,Aug,5000000.0,25861249.0,20861249.0,"Comedy,Drama",Jesse Peretz
 The Strangers: Prey at Night,Mar,5000000.0,29960051.0,24960051.0,Horror,Johannes Roberts
 Billy Elliot,Oct,5000000.0,109253745.0,104253745.0,"Comedy,Drama,Music",Stephen Daldry
-"As Above, So Below",Aug,5000000.0,41824066.0,36824066.0,Documentary,Sarah Christman
+"As Above, So Below",Aug,5000000.0,41824066.0,36824066.0,"Adventure,Horror,Mystery",John Erick Dowdle
 The Apostle,Dec,5000000.0,21277770.0,16277770.0,"Animation,Horror",Fernando Cortizo
-Race,Feb,5000000.0,23745772.0,18745772.0,"Biography,Documentary,History",Katherine Cecil
+Race,Feb,5000000.0,23745772.0,18745772.0,Drama,Kuku Surendran
 Apollo 18,Sep,5000000.0,26517819.0,21517819.0,"Horror,Mystery,Sci-Fi",Gonzalo López-Gallego
 "Paul, Apostle of Christ",Mar,5000000.0,25529498.0,20529498.0,"Adventure,Biography,Drama",Andrew Hyatt
 Addicted,Oct,5000000.0,17499242.0,12499242.0,"Drama,Thriller",Bille Woodruff
-Nighthawks,Apr,5000000.0,19600000.0,14600000.0,Drama,Art Messenger
+Nighthawks,Apr,5000000.0,19600000.0,14600000.0,"Drama,Thriller",Grant S. Johnson
 Spring Breakers,Mar,5000000.0,31149251.0,26149251.0,"Comedy,Crime,Drama",Harmony Korine
 It Comes at Night,Jun,5000000.0,19720203.0,14720203.0,"Horror,Mystery",Trey Edward Shults
-Diner,Apr,5000000.0,12592907.0,7592907.0,Crime,Mika Ninagawa
 Before I Fall,Mar,5000000.0,18945682.0,13945682.0,"Drama,Fantasy,Mystery",Ry Russo-Young
 Fifty Shades of Black,Jan,5000000.0,22113075.0,17113075.0,Comedy,Michael Tiddes
 The Belko Experiment,Mar,5000000.0,11792942.0,6792942.0,"Horror,Thriller",Greg McLean
-The Perfect Match,Mar,5000000.0,10182050.0,5182050.0,"Biography,Documentary,Family",Jennifer Barbaro
+The Perfect Match,Mar,5000000.0,10182050.0,5182050.0,"Comedy,Romance",Bille Woodruff
 The Forsaken,Apr,5000000.0,6755271.0,1755271.0,"Drama,Horror,Thriller",Yolanda Torres
 Fahrenheit 11/9,Sep,5000000.0,6653715.0,1653715.0,Documentary,Michael Moore
 Sea Rex 3D: Journey to a Prehistoric World,May,5000000.0,16515203.0,11515203.0,Documentary,Pascal Vuong
@@ -1593,15 +1493,11 @@ Mommy,Jan,4900000.0,17536004.0,12636004.0,Drama,Xavier Dolan
 Hostel,Jan,4800000.0,82241110.0,77441110.0,"Action,Crime,Drama",Manish Gupta
 Only God Forgives,Jul,4800000.0,4494560.0,-305440.0,"Crime,Drama",Nicolas Winding Refn
 Take Shelter,Sep,4750000.0,4972016.0,222016.0,"Drama,Horror,Thriller",Jeff Nichols
-Lady in White,Apr,4700000.0,1705139.0,-2994861.0,"Comedy,Drama",Yuki Otsuka
 Barfi,Sep,4600000.0,36751984.0,32151984.0,"Comedy,Romance",Shekar
 Out of the Blue,Oct,4600000.0,731767.0,-3868233.0,"Comedy,Drama",Edoardo Leo
-Secrets & Lies,Sep,4500000.0,13417292.0,8917292.0,"Drama,Romance",Seung-Yub Lee
 Moby Dick,Jun,4500000.0,10400000.0,5900000.0,Action,In-je Park
 The Lobster,Mar,4500000.0,18019834.0,13519834.0,"Comedy,Drama,Romance",Yorgos Lanthimos
-Bound,Oct,4500000.0,7011317.0,2511317.0,"Action,Drama",Jokes Yanes
-Salvador,Apr,4500000.0,1500000.0,-3000000.0,Drama,Gonzalo Albornoz
-Life During Wartime,Jul,4500000.0,281447.0,-4218553.0,"Documentary,History",Ernest Holzman
+Bound,Oct,4500000.0,7011317.0,2511317.0,"Drama,Thriller",Jared Cohn
 Blackthorn,Oct,4500000.0,1217307.0,-3282693.0,"Action,Adventure,Western",Mateo Gil
 Maggie,May,4500000.0,1027760.0,-3472240.0,"Drama,Horror",Henry Hobson
 The Sweeney,Mar,4500000.0,8000366.0,3500366.0,"Action,Crime,Drama",Nick Love
@@ -1636,23 +1532,20 @@ Sonny,Dec,4000000.0,17639.0,-3982361.0,Drama,Larisa Sadilova
 Another Happy Day,Nov,4000000.0,978527.0,-3021473.0,"Comedy,Drama",Sam Levinson
 Inescapable,Feb,4000000.0,4327.0,-3995673.0,"Action,Drama,Mystery",Ruba Nadda
 A Lonely Place to Die,Mar,4000000.0,442550.0,-3557450.0,"Adventure,Crime,Thriller",Julian Gilbey
-Nothing,Dec,4000000.0,63180.0,-3936820.0,Sci-Fi,Daryush Shokof
-Network,Jan,3800000.0,23689877.0,19889877.0,"Drama,Thriller",Saptaswa Basu
-Annie Get Your Gun,May,3768785.0,8000000.0,4231215.0,Crime,Corey Harrell
+Nothing,Dec,4000000.0,63180.0,-3936820.0,"Comedy,Drama",Abdolreza Kahani
 Friday,Apr,3500000.0,27936778.0,24436778.0,Family,Lijin Jose
 The Witch,Feb,3500000.0,40454520.0,36954520.0,"Horror,Mystery",Robert Eggers
 Winchester,Feb,3500000.0,44378040.0,40878040.0,"Biography,Drama,Fantasy",Michael Spierig
 Forever My Girl,Jan,3500000.0,16376066.0,12876066.0,"Drama,Music,Romance",Bethany Ashton Wolf
 She's the One,Aug,3500000.0,13795053.0,10295053.0,"Drama,Romance",Mae Czarina Cruz
 First Reformed,May,3500000.0,3874772.0,374772.0,"Drama,Mystery,Thriller",Paul Schrader
-Believe,Dec,3500000.0,890303.0,-2609697.0,Documentary,Nikita Sharma
+Believe,Dec,3500000.0,890303.0,-2609697.0,"Drama,Sport",David Scheinmann
 American Honey,Sep,3500000.0,2611750.0,-888250.0,"Adventure,Drama,Romance",Andrea Arnold
 The Bronze,Mar,3500000.0,615816.0,-2884184.0,"Comedy,Drama,Sport",Bryan Buckley
 The Masked Saint,Jan,3500000.0,182695.0,-3317305.0,"Action,Biography,Crime",Warren P. Sonoda
 Time to Choose,Jun,3500000.0,29233.0,-3470767.0,Documentary,Charles Ferguson
 The Kick,Dec,3500000.0,40622.0,-3459378.0,"Action,Sport",Prachya Pinkaew
 Margin Call,Oct,3400000.0,20433227.0,17033227.0,"Drama,Thriller",J.C. Chandor
-Choke,Sep,3400000.0,4124277.0,724277.0,"Action,Drama,Romance",Michael Petrone
 August,Jul,3400000.0,12636.0,-3387364.0,"Drama,Romance",Eldar Rapaport
 Whiplash,Oct,3300000.0,38969037.0,35669037.0,"Drama,Music",Damien Chazelle
 Rosemary's Baby,Jun,3200000.0,33395426.0,30195426.0,Comedy,Dane Kissel
@@ -1665,14 +1558,12 @@ Paranormal Activity 2,Oct,3000000.0,177512032.0,174512032.0,Horror,Tod Williams
 War Room,Aug,3000000.0,73975239.0,70975239.0,Drama,Alex Kendrick
 The Purge,Jun,3000000.0,91266581.0,88266581.0,"Horror,Thriller",James DeMonaco
 Sinister,Oct,3000000.0,87727807.0,84727807.0,"Horror,Mystery,Thriller",Scott Derrickson
-Coming Home,Jan,3000000.0,32653000.0,29653000.0,Documentary,Michael Garcia
 Red River,Aug,3000000.0,9012000.0,6012000.0,Horror,Jacob Ennis
 Before Midnight,May,3000000.0,23251930.0,20251930.0,"Drama,Romance",Richard Linklater
 The Collector,Jul,3000000.0,10473836.0,7473836.0,"Action,Comedy",James Lee
-Let There Be Light,Oct,3000000.0,7241309.0,4241309.0,Documentary,Peter Swanson
-Water,Apr,3000000.0,11322573.0,8322573.0,"Crime,Thriller",Jeff Scott Taylor
+Let There Be Light,Oct,3000000.0,7241309.0,4241309.0,Drama,Kevin Sorbo
+Water,Apr,3000000.0,11322573.0,8322573.0,Drama,Mohammad Bakri
 Swiss Army Man,Jun,3000000.0,5837111.0,2837111.0,"Adventure,Comedy,Drama",Daniel Scheinert
-Kama Sutra,Feb,3000000.0,4109095.0,1109095.0,Romance,Dawn
 Frances Ha,May,3000000.0,11262769.0,8262769.0,"Comedy,Drama,Romance",Noah Baumbach
 Please Give,Apr,3000000.0,4570178.0,1570178.0,"Comedy,Drama",Nicole Holofcener
 Compadres,Apr,3000000.0,7445044.0,4445044.0,"Action,Comedy,Crime",Enrique Begné
@@ -1698,21 +1589,18 @@ Sardaar Ji,Dec,2700000.0,8200000.0,5500000.0,"Comedy,Fantasy,Horror",Rohit Jugra
 Ida,May,2600000.0,15298355.0,12698355.0,Drama,Pawel Pawlikowski
 A Haunted House,Jan,2500000.0,59922558.0,57422558.0,"Comedy,Fantasy",Michael Tiddes
 Kevin Hart: Let Me Explain,Jul,2500000.0,32327255.0,29827255.0,"Comedy,Documentary",Leslie Small
-Halloween II,Oct,2500000.0,25533818.0,23033818.0,Horror,Jay Conning
 The Spectacular Now,Aug,2500000.0,6916951.0,4416951.0,"Comedy,Drama,Romance",James Ponsoldt
 Before Sunrise,Jan,2500000.0,5690220.0,3190220.0,Drama,Murat Eroglu
 Hunt for the Wilderpeople,Jun,2500000.0,23845533.0,21345533.0,"Adventure,Comedy,Drama",Taika Waititi
 Robot & Frank,Aug,2500000.0,4934356.0,2434356.0,"Comedy,Crime,Drama",Jake Schreier
 The Lost Medallion: The Adventures of Billy Stone,Mar,2500000.0,549632.0,-1950368.0,"Adventure,Family,Fantasy",Bill Muir
 Super,Apr,2500000.0,593933.0,-1906067.0,"Action,Comedy,Drama",James Gunn
-Fuel,Nov,2500000.0,174255.0,-2325745.0,"Documentary,Sport",Maarten Wijsman
 8: The Mormon Proposition,Jun,2500000.0,100280.0,-2399720.0,Documentary,Steven Greenstreet
-Underdogs,Aug,2500000.0,1392649.0,-1107351.0,"Documentary,Sport",Téo Frank
+Underdogs,Aug,2500000.0,1392649.0,-1107351.0,"Adventure,Animation,Family",Juan José Campanella
 Do You Believe?,Mar,2300000.0,14304931.0,12004931.0,Drama,Jon Gunn
-Frontera,Sep,2300000.0,59696.0,-2240304.0,"Action,Drama,Thriller",Jesse Estrada
+Frontera,Sep,2300000.0,59696.0,-2240304.0,"Drama,Thriller,Western",Michael Berry
 Redemption Road,Aug,2300000.0,29384.0,-2270616.0,Drama,Mario Van Peebles
 Fantasia,Nov,2280000.0,83320000.0,81040000.0,Drama,Chao Wang
-The Best Years of Our Lives,Nov,2100000.0,23600000.0,21500000.0,Comedy,Mihalis Georgiou
 Bully,Jul,2100000.0,1381824.0,-718176.0,Documentary,Lee Hirsch
 Mi America,Oct,2100000.0,3330.0,-2096670.0,"Crime,Drama",Robert Fontaine
 Courageous,Sep,2000000.0,35185884.0,33185884.0,Drama,Alex Kendrick
@@ -1720,7 +1608,6 @@ Sleeper,Dec,2000000.0,18344729.0,16344729.0,"Action,Horror",Dru Brown
 It Follows,Mar,2000000.0,23250755.0,21250755.0,"Horror,Mystery",David Robert Mitchell
 Silent House,Mar,2000000.0,16610760.0,14610760.0,"Drama,Horror,Mystery",Chris Kentis
 Hardcore Henry,Apr,2000000.0,17187434.0,15187434.0,"Action,Adventure,Sci-Fi",Ilya Naishuller
-Smoke Signals,Jun,2000000.0,7756617.0,5756617.0,Documentary,Luis Sampieri
 Winter's Bone,Jun,2000000.0,16131551.0,14131551.0,"Drama,Mystery",Debra Granik
 Meet the Mormons,Oct,2000000.0,6049171.0,4049171.0,Documentary,Blair Treu
 The Florida Project,Oct,2000000.0,11295324.0,9295324.0,Drama,Sean Baker
@@ -1734,12 +1621,10 @@ The Resurrection of Gavin Stone,Jan,2000000.0,2303792.0,303792.0,"Comedy,Drama,F
 Nemesis,Jan,2000000.0,2001124.0,1124.0,Drama,Nicole Mosleh
 The Diary of a Teenage Girl,Aug,2000000.0,2279959.0,279959.0,"Comedy,Drama,Romance",Marielle Heller
 Locke,Apr,2000000.0,2088390.0,88390.0,Drama,Steven Knight
-Get Real,Apr,2000000.0,1152411.0,-847589.0,Drama,Darby Christensen
-In the Shadow of the Moon,Sep,2000000.0,2175587.0,175587.0,Thriller,Jim Mickle
 Meek's Cutoff,Apr,2000000.0,1869928.0,-130072.0,"Drama,Western",Kelly Reichardt
 The Babadook,Nov,2000000.0,7482387.0,5482387.0,"Drama,Horror",Jennifer Kent
 The Virginity Hit,Sep,2000000.0,636706.0,-1363294.0,Comedy,Andrew Gurland
-Teeth,Jan,2000000.0,2350641.0,350641.0,"Documentary,History",Koert Davidse
+Teeth,Jan,2000000.0,2350641.0,350641.0,Drama,Rares H. Stoica
 Stonewall,Jul,2000000.0,304602.0,-1695398.0,"Drama,History",Roland Emmerich
 The Last Five Years,Feb,2000000.0,205298.0,-1794702.0,"Comedy,Drama,Musical",Richard LaGravenese
 Pump,Sep,2000000.0,72277.0,-1927723.0,Documentary,Rebecca Harrell Tickell
@@ -1756,22 +1641,19 @@ Submarine,Jun,1900000.0,4581937.0,2681937.0,"Comedy,Drama,Romance",Richard Ayoad
 The Square,Apr,1900000.0,740932.0,-1159068.0,"Documentary,Drama,History",Jehane Noujaim
 The Square,Oct,1500000.0,176262.0,-1323738.0,"Documentary,Drama,History",Jehane Noujaim
 ABCD (Any Body Can Dance),Feb,1900000.0,10137234.0,8237234.0,"Drama,Music",Remo D'Souza
-Stranded,Jul,1900000.0,285593.0,-1614407.0,"Drama,Romance",Ice Idanan
+Stranded,Jul,1900000.0,285593.0,-1614407.0,"Horror,Mystery",Hugues Martin
 Vaalu,Dec,1900000.0,12444.0,-1887556.0,"Comedy,Romance",Vijay Chandar
 The Last Exorcism,Aug,1800000.0,70165900.0,68365900.0,"Drama,Horror,Thriller",Daniel Stamm
 Beasts of the Southern Wild,Jun,1800000.0,23265132.0,21465132.0,"Adventure,Drama,Fantasy",Benh Zeitlin
-May,Feb,1750000.0,634803.0,-1115197.0,Documentary,Diego Iván Andrade
 I Spit on Your Grave,Oct,1750000.0,1278471.0,-471529.0,"Horror,Thriller",Steven R. Monroe
 The Lunchbox,Feb,1700000.0,12231500.0,10531500.0,"Drama,Romance",Ritesh Batra
 Grace Unplugged,Oct,1700000.0,2507159.0,807159.0,"Drama,Music",Brad J. Silverman
 Braid,Feb,1660000.0,80745.0,-1579255.0,"Horror,Mystery,Thriller",Mitzi Peirone
-The Conversation,Apr,1600000.0,4420000.0,2820000.0,Action,Adam Ethan Crow
 Out of the Dark,Dec,1600000.0,419428.0,-1180572.0,"Horror,Thriller",Lluís Quílez
 Two Night Stand,Sep,1600000.0,868081.0,-731919.0,"Comedy,Romance",Max Nichols
 Insidious,Apr,1500000.0,99870886.0,98370886.0,"Horror,Mystery,Thriller",James Wan
 Moonlight,Oct,1500000.0,65245512.0,63745512.0,Drama,Barry Jenkins
 Cabin Fever,Sep,1500000.0,30351664.0,28851664.0,Horror,Travis Zariwny
-Waitress,May,1500000.0,22217183.0,20717183.0,Drama,Steve Whelan
 Unsane,Mar,1500000.0,14244931.0,12744931.0,"Drama,Horror,Mystery",Steven Soderbergh
 Spellbound,Oct,1500000.0,7000000.0,5500000.0,"Comedy,Horror,Romance",In-ho Hwang
 The To Do List,Jul,1500000.0,4128828.0,2628828.0,"Comedy,Romance",Maggie Carey
@@ -1779,21 +1661,17 @@ The Gatekeepers,Feb,1500000.0,2592308.0,1092308.0,"Documentary,History,War",Dror
 The Lords of Salem,Apr,1500000.0,1541131.0,41131.0,"Horror,Thriller",Rob Zombie
 31,Oct,1500000.0,922727.0,-577273.0,"Horror,Thriller",Rob Zombie
 Amigo,Aug,1500000.0,184705.0,-1315295.0,"Drama,War",John Sayles
-The Salon,May,1500000.0,139084.0,-1360916.0,Documentary,Don Boyd
 Housebound,Oct,1500000.0,236863.0,-1263137.0,"Comedy,Horror,Mystery",Gerard Johnstone
 Teefa in Trouble,Jul,1500000.0,98806.0,-1401194.0,"Action,Comedy,Crime",Ahsan Rahim
 Closer to the Moon,Apr,1500000.0,5396.0,-1494604.0,"Comedy,Crime,Drama",Nae Caranfil
-Snow White and the Seven Dwarfs,Dec,1488000.0,184925486.0,183437486.0,"Animation,Family",Karthik Chandan
 Mustang,Nov,1400000.0,5552584.0,4152584.0,Drama,Deniz Gamze Ergüven
 La chambre bleue,Oct,1400000.0,1945420.0,545420.0,Documentary,Paul Costes
 Eddie: The Sleepwalking Cannibal,Apr,1400000.0,1632.0,-1398368.0,"Comedy,Horror",Boris Rodriguez
 Above and Beyond,Jan,1300000.0,288751.0,-1011249.0,"Adventure,Documentary,History",Roberta Grossman
 Forget Me Not,May,1300000.0,13465.0,-1286535.0,Romance,Lance Roehrig
-Rebecca,Mar,1288000.0,6002370.0,4714370.0,Horror,Rogeria Inocencio
 Dear White People,Oct,1250000.0,5403771.0,4153771.0,"Comedy,Drama,Romance",Justin Simien
 Filly Brown,Apr,1250000.0,2940411.0,1690411.0,"Drama,Music",Michael D. Olmos
 Home Run,Apr,1200000.0,2859955.0,1659955.0,"Drama,Family,Sport",Chia-Chien Chen
-The Blue Bird,Jan,1200000.0,887000.0,-313000.0,Drama,Kwiduck Lee
 Blue Like Jazz,Apr,1200000.0,595018.0,-604982.0,"Comedy,Drama",Steve Taylor
 Q,Nov,1200000.0,255000.0,-945000.0,Drama,Laurent Bouhnik
 "Pink Ribbons, Inc.",Jun,1200000.0,26608.0,-1173392.0,Documentary,Léa Pool
@@ -1815,7 +1693,7 @@ October Baby,Mar,1000000.0,5391992.0,4391992.0,Drama,Jon Erwin
 The Skeleton Twins,Sep,1000000.0,5797192.0,4797192.0,"Comedy,Drama,Romance",Craig Johnson
 Obvious Child,Jun,1000000.0,3324070.0,2324070.0,"Comedy,Drama,Romance",Gillian Robespierre
 Martha Marcy May Marlene,Oct,1000000.0,5438911.0,4438911.0,"Drama,Mystery,Thriller",Sean Durkin
-No Man's Land,Dec,1000000.0,2684207.0,1684207.0,Western,Conor Allyn
+No Man's Land,Dec,1000000.0,2684207.0,1684207.0,"Adventure,Crime,Drama",Hao Ning
 Slam,Oct,1000000.0,1087521.0,87521.0,"Comedy,Drama,Romance",Andrea Molaioli
 Patti Cake$,Aug,1000000.0,1471090.0,471090.0,"Drama,Music",Geremy Jasper
 Panic,Dec,1000000.0,1425707.0,425707.0,"Drama,Mystery,Thriller",Sean Spencer
@@ -1831,7 +1709,6 @@ Creative Control,Mar,1000000.0,63014.0,-936986.0,"Drama,Sci-Fi",Benjamin Dickins
 The Perfect Host,Jul,1000000.0,51587.0,-948413.0,"Comedy,Crime,Thriller",Nick Tomnay
 The Specials,Sep,1000000.0,12996.0,-987004.0,Comedy,Olivier Nakache
 Camp X-Ray,Oct,1000000.0,101053.0,-898947.0,"Drama,War",Peter Sattler
-Special,Nov,1000000.0,26822.0,-973178.0,Drama,Ann P Meredith
 The Sisterhood of Night,Apr,1000000.0,6870.0,-993130.0,"Drama,Mystery,Thriller",Caryn Waechter
 Heli,Dec,1000000.0,552614.0,-447386.0,"Crime,Drama,Romance",Amat Escalante
 Karachi se Lahore,Dec,1000000.0,17721.0,-982279.0,"Adventure,Comedy,Family",Wajahat Rauf
@@ -1843,7 +1720,6 @@ Food Chains,Nov,913000.0,176.0,-912824.0,Documentary,Sanjay Rawal
 Fruitvale Station,Jul,900000.0,17549645.0,16649645.0,"Biography,Drama,Romance",Ryan Coogler
 Meet the Blacks,Apr,900000.0,9097072.0,8197072.0,"Comedy,Horror",Deon Taylor
 Circumstance,Aug,900000.0,958978.0,58978.0,Drama,Maryam Keshavarz
-The Quiet,Aug,900000.0,381420.0,-518580.0,Drama,Tom Silva
 The Giant Mechanical Man,Apr,900000.0,7396.0,-892604.0,"Comedy,Drama,Romance",Lee Kirk
 The Brass Teapot,Apr,900000.0,413733.0,-486267.0,"Comedy,Fantasy,Thriller",Ramaa Mosley
 Bambi,Aug,858000.0,268000000.0,267142000.0,"Biography,Documentary",Sébastien Lifshitz
@@ -1854,7 +1730,6 @@ Kill List,Feb,800000.0,462206.0,-337794.0,"Crime,Drama,Horror",Ben Wheatley
 Kevin Hart: Laugh at My Pain,Sep,750000.0,7712436.0,6962436.0,"Comedy,Documentary",Leslie Small
 Safety Not Guaranteed,Jun,750000.0,4422318.0,3672318.0,"Comedy,Drama,Romance",Colin Trevorrow
 The Innkeepers,Feb,750000.0,1011535.0,261535.0,"Drama,Horror,Mystery",Ti West
-Undead,Jul,750000.0,229250.0,-520750.0,Horror,Rick McLeod
 Destiny,Dec,750000.0,450.0,-749550.0,Action,Sardar Shafai
 Columbus,Aug,700000.0,1110511.0,410511.0,Comedy,R. Samala
 Escape from Tomorrow,Oct,650000.0,171962.0,-478038.0,"Drama,Fantasy,Horror",Randy Moore
@@ -1862,7 +1737,6 @@ Drunk Wedding,May,600000.0,3301.0,-596699.0,Comedy,Nick Weiss
 They Will Have to Kill Us First,Mar,600000.0,7943.0,-592057.0,Documentary,Johanna Schwartz
 The Harvest/La Cosecha,Jul,560000.0,3709.0,-556291.0,Documentary,U. Roberto Romano
 Julija in alfa Romeo,Dec,560000.0,8462.0,-551538.0,Comedy,Blaz Zavrsnik
-Mata Hari,Dec,558000.0,900000.0,342000.0,Biography,Rossana Patrizia Siclari
 Faith Connections,Sep,550000.0,9111.0,-540889.0,"Biography,Documentary,Drama",Pan Nalin
 Beyond the Mat,Oct,500000.0,2047570.0,1547570.0,"Drama,Sport",Van M. Pham
 Sholem Aleichem: Laughing in the Darkness,Jul,500000.0,1131261.0,631261.0,Documentary,Joseph Dorman
@@ -1873,13 +1747,12 @@ The Other Dream Team,Sep,500000.0,314444.0,-185556.0,"Documentary,Sport",Marius 
 Rubber,Apr,500000.0,680914.0,180914.0,"Comedy,Fantasy,Horror",Quentin Dupieux
 Born to Fly: Elizabeth Streb vs. Gravity,Sep,500000.0,1822.0,-498178.0,"Action,Biography,Documentary",Catherine Gund
 Detention of the Dead,Jun,500000.0,1778.0,-498222.0,"Action,Adventure,Comedy",Alex Craig Mann
-Brick,Mar,450000.0,4243996.0,3793996.0,"Drama,Family,Romance",Wenjian Ding
-Sunday,Aug,450000.0,450349.0,349.0,Drama,Svetlana Proskurina
+Sunday,Aug,450000.0,450349.0,349.0,"Drama,Romance",Michelle Joy
 As It Is in Heaven,Jul,450000.0,13486.0,-436514.0,Drama,Joshua Overbay
 Blue Ruin,Apr,420000.0,437002.0,17002.0,"Crime,Drama,Thriller",Jeremy Saulnier
 Heroes,Oct,400000.0,655538.0,255538.0,Documentary,Köken Ergun
 I Want Your Money,Oct,400000.0,433588.0,33588.0,Documentary,Ray Griggs
-Home Movies,May,400000.0,89134.0,-310866.0,"Documentary,Family",Dean Duncan
+Jackpot,Jul,400000.0,44452.0,-355548.0,"Action,Comedy,Crime",Magnus Martens
 Maniac,Jan,350000.0,10000000.0,9650000.0,"Action,Horror,Thriller",Albin Joseph
 Locker 13,Mar,300000.0,3496.0,-296504.0,Thriller,Jason Marsden
 The Looking Glass,Oct,300000.0,1711.0,-298289.0,Fantasy,Colin Downey
@@ -1888,10 +1761,8 @@ Compliance,Aug,270000.0,830700.0,560700.0,"Biography,Crime,Drama",Craig Zobel
 Graduation Day,May,250000.0,23894000.0,23644000.0,Thriller,Chris Stokes
 Sleight,Apr,250000.0,3934450.0,3684450.0,"Action,Drama,Sci-Fi",J.D. Dillard
 Like Crazy,Oct,250000.0,3728400.0,3478400.0,"Drama,Romance",Drake Doremus
-Cube,Sep,250000.0,8969065.0,8719065.0,"Biography,Documentary",Chris Kaye
 Love and Other Catastrophes,Mar,250000.0,743216.0,493216.0,"Comedy,Drama",Sofie Stougaard
-November,Jul,250000.0,191862.0,-58138.0,"Documentary,History",Luciangela Gatto
-Sugar Town,Sep,250000.0,178095.0,-71905.0,"Drama,Horror,Sci-Fi",Andrew Herwitz
+November,Jul,250000.0,191862.0,-58138.0,"Drama,Fantasy,Horror",Rainer Sarnet
 Happy Valley,Mar,250000.0,67665.0,-182335.0,"Documentary,Drama,Sport",Amir Bar-Lev
 The Canyons,Aug,250000.0,62375.0,-187625.0,"Drama,Thriller",Paul Schrader
 Test,Jun,250000.0,18823.0,-231177.0,Drama,Chris Mason Johnson
@@ -1900,7 +1771,6 @@ Burn,Jul,225000.0,1109276.0,884276.0,Documentary,Tom Putnam
 Swingers,Oct,200000.0,6618578.0,6418578.0,Comedy,Andrejs Ekis
 The Grace Card,Feb,200000.0,2430735.0,2230735.0,Drama,David G. Evans
 Hybrid,May,200000.0,162605.0,-37395.0,"Documentary,Sport",Daishi Matsunaga
-Solitude,Jan,200000.0,6260.0,-193740.0,"Biography,Documentary,Drama",Marcel Wehn
 The Word,Mar,200000.0,3648.0,-196352.0,Drama,Gregory W. Friedle
 Weekend,Sep,190000.0,1577585.0,1387585.0,"Drama,Romance",Andrew Haigh
 Butterfly Girl,Feb,180000.0,17503.0,-162497.0,Documentary,Cary Bell
@@ -1922,7 +1792,6 @@ Supporting Characters,Jan,60000.0,4917.0,-55083.0,Comedy,Daniel Schechter
 Counting,Jul,50000.0,8374.0,-41626.0,Documentary,Jem Cohen
 Raymond Did It,Feb,40000.0,3632.0,-36368.0,Horror,Travis Legge
 Krisha,Mar,30000.0,144822.0,114822.0,Drama,Trey Edward Shults
-Emily,Jan,27000.0,3547.0,-23453.0,Drama,Timothy McNeil
+Emily,Jan,27000.0,3547.0,-23453.0,Drama,Ryan Graves
 Exeter,Sep,25000.0,489792.0,464792.0,"Horror,Mystery,Thriller",Marcus Nispel
-Clean,Apr,10000.0,138711.0,128711.0,"Comedy,Drama,Horror",Graham Wright
 Cure,Jul,10000.0,94596.0,84596.0,Drama,Bill Yip
